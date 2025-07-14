@@ -4,4 +4,4 @@ Código final de las metodologías para la exposición de datos de usuario en pl
 
 Este repositorio contiene el código que permite extraer tanto el tamaño de audiencia como el coste de la campaña publicitaria en diferentes plataformas: Meta (Facebook/Instagram), LinkedIn, X (Twitter) y TikTok
 
-El código de análisis y los datos para el análisis de la Tasa Rosa del Mercado Digital (TRMD) no está en este repositorio por su gran tamaño, se encuentra disponible en el siguiente enlace: https://drive.google.com/file/d/1X\_DAckxJ1genNFEf2BBJ8Jfw69aU0RB5/view?usp=share\_link
+El código de análisis y los datos para el análisis de la Tasa Rosa del Mercado Digital (TRMD) no está en este repositorio por su gran tamaño, se encuentra disponible en el siguiente enlace: [https://drive.google.com/file/d/1X\_DAckxJ1genNFEf2BBJ8Jfw69aU0RB5/view?usp=share\_link](https://drive.google.com/file/d/1X_DAckxJ1genNFEf2BBJ8Jfw69aU0RB5/view?usp=share_link)
