@@ -1,0 +1,2 @@
+# E19
+Código E19 A2PRIVCOMP
