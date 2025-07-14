@@ -1,0 +1,2828 @@
+[{
+  "_id": {
+    "$oid": "65af97bc15c37c2337082910"
+  },
+  "name": "Bermuda",
+  "alpha2": "BM",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100061709",
+  "count": 58000
+},
+{
+  "_id": {
+    "$oid": "65af97bc15c37c2337082914"
+  },
+  "name": "Canada",
+  "alpha2": "CA",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101174742",
+  "count": 24000000
+},
+{
+  "_id": {
+    "$oid": "65af97be15c37c2337082923"
+  },
+  "name": "United States",
+  "alpha2": "US",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103644278",
+  "count": 220000000
+},
+{
+  "_id": {
+    "$oid": "65af97bf15c37c2337082927"
+  },
+  "name": "Greenland",
+  "alpha2": "GL",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103705642",
+  "count": 24000
+},
+{
+  "_id": {
+    "$oid": "65af97bf15c37c233708292d"
+  },
+  "name": "Mexico",
+  "alpha2": "MX",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103323778",
+  "count": 22000000
+},
+{
+  "_id": {
+    "$oid": "65af97c015c37c2337082933"
+  },
+  "name": "Saint Pierre and Miquelon",
+  "alpha2": "PM",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102024132",
+  "count": 3200
+},
+{
+  "_id": {
+    "$oid": "65af97c115c37c2337082941"
+  },
+  "name": "Albania",
+  "alpha2": "AL",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102845717",
+  "count": 590000
+},
+{
+  "_id": {
+    "$oid": "65af97c215c37c2337082951"
+  },
+  "name": "Germany",
+  "alpha2": "DE",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101282230",
+  "count": 18000000
+},
+{
+  "_id": {
+    "$oid": "65af97c215c37c2337082957"
+  },
+  "name": "Andorra",
+  "alpha2": "AD",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106296266",
+  "count": 63000
+},
+{
+  "_id": {
+    "$oid": "65af97c315c37c2337082960"
+  },
+  "name": "Austria",
+  "alpha2": "AT",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103883259",
+  "count": 2300000
+},
+{
+  "_id": {
+    "$oid": "65af97c415c37c2337082966"
+  },
+  "name": "Belgium",
+  "alpha2": "BE",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100565514",
+  "count": 5200000
+},
+{
+  "_id": {
+    "$oid": "65af97c415c37c233708296c"
+  },
+  "name": "Belarus",
+  "alpha2": "BY",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101705918",
+  "count": 890000
+},
+{
+  "_id": {
+    "$oid": "65af97c515c37c2337082974"
+  },
+  "name": "Bosnia and Herzegovina",
+  "alpha2": "BA",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102869081",
+  "count": 400000
+},
+{
+  "_id": {
+    "$oid": "65af97c615c37c233708297b"
+  },
+  "name": "Bulgaria",
+  "alpha2": "BG",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105333783",
+  "count": 1300000
+},
+{
+  "_id": {
+    "$oid": "65af97c615c37c2337082988"
+  },
+  "name": "Croatia",
+  "alpha2": "HR",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104688944",
+  "count": 950000
+},
+{
+  "_id": {
+    "$oid": "65af97c715c37c233708298e"
+  },
+  "name": "Denmark",
+  "alpha2": "DK",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104514075",
+  "count": 3300000
+},
+{
+  "_id": {
+    "$oid": "65af97c815c37c2337082992"
+  },
+  "name": "Slovakia",
+  "alpha2": "SK",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103119917",
+  "count": 830000
+},
+{
+  "_id": {
+    "$oid": "65af97c815c37c23370829a2"
+  },
+  "name": "Slovenia",
+  "alpha2": "SI",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106137034",
+  "count": 500000
+},
+{
+  "_id": {
+    "$oid": "65af97c915c37c23370829a8"
+  },
+  "name": "Spain",
+  "alpha2": "ES",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105646813",
+  "count": 19000000
+},
+{
+  "_id": {
+    "$oid": "65af97ca15c37c23370829ae"
+  },
+  "name": "Estonia",
+  "alpha2": "EE",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102974008",
+  "count": 380000
+},
+{
+  "_id": {
+    "$oid": "65af97ca15c37c23370829b4"
+  },
+  "name": "Finland",
+  "alpha2": "FI",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100456013",
+  "count": 1900000
+},
+{
+  "_id": {
+    "$oid": "65af97cb15c37c23370829be"
+  },
+  "name": "France",
+  "alpha2": "FR",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105015875",
+  "count": 30000000
+},
+{
+  "_id": {
+    "$oid": "65af97cc15c37c23370829c5"
+  },
+  "name": "Gibraltar",
+  "alpha2": "GI",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100674501",
+  "count": 30000
+},
+{
+  "_id": {
+    "$oid": "65af97cd15c37c23370829cb"
+  },
+  "name": "Greece",
+  "alpha2": "GR",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104677530",
+  "count": 2400000
+},
+{
+  "_id": {
+    "$oid": "65af97cd15c37c23370829d1"
+  },
+  "name": "Guernsey",
+  "alpha2": "GG",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104019891",
+  "count": 34000
+},
+{
+  "_id": {
+    "$oid": "65af97ce15c37c23370829d7"
+  },
+  "name": "Hungary",
+  "alpha2": "HU",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100288700",
+  "count": 1600000
+},
+{
+  "_id": {
+    "$oid": "65af97cf15c37c23370829dd"
+  },
+  "name": "Ireland",
+  "alpha2": "IE",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104738515",
+  "count": 3000000
+},
+{
+  "_id": {
+    "$oid": "65af97cf15c37c23370829e5"
+  },
+  "name": "Isle of Man",
+  "alpha2": "IM",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106316481",
+  "count": 43000
+},
+{
+  "_id": {
+    "$oid": "65af97d015c37c23370829ec"
+  },
+  "name": "Iceland",
+  "alpha2": "IS",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105238872",
+  "count": 270000
+},
+{
+  "_id": {
+    "$oid": "65af97d015c37c23370829f3"
+  },
+  "name": "Faroe Islands",
+  "alpha2": "FO",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104630756",
+  "count": 18000
+},
+{
+  "_id": {
+    "$oid": "65af97d115c37c23370829f9"
+  },
+  "name": "Italy",
+  "alpha2": "IT",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103350119",
+  "count": 20000000
+},
+{
+  "_id": {
+    "$oid": "65af97d215c37c2337082a01"
+  },
+  "name": "Jersey",
+  "alpha2": "XK",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102705533",
+  "count": 57000
+},
+{
+  "_id": {
+    "$oid": "65af97d315c37c2337082a0c"
+  },
+  "name": "Latvia",
+  "alpha2": "LV",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104341318",
+  "count": 510000
+},
+{
+  "_id": {
+    "$oid": "65af97d415c37c2337082a12"
+  },
+  "name": "Liechtenstein",
+  "alpha2": "LI",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100878084",
+  "count": 24000
+},
+{
+  "_id": {
+    "$oid": "65af97d515c37c2337082a1b"
+  },
+  "name": "Lithuania",
+  "alpha2": "LT",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101464403",
+  "count": 750000
+},
+{
+  "_id": {
+    "$oid": "65af97d515c37c2337082a22"
+  },
+  "name": "Luxembourg",
+  "alpha2": "LU",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104042105",
+  "count": 390000
+},
+{
+  "_id": {
+    "$oid": "65af97d615c37c2337082a29"
+  },
+  "name": "North Macedonia",
+  "alpha2": "MK",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103420483",
+  "count": 370000
+},
+{
+  "_id": {
+    "$oid": "65af97d715c37c2337082a2f"
+  },
+  "name": "Malta",
+  "alpha2": "MT",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100961908",
+  "count": 320000
+},
+{
+  "_id": {
+    "$oid": "65af97d715c37c2337082a33"
+  },
+  "name": "Moldova",
+  "alpha2": "MD",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106178099",
+  "count": 380000
+},
+{
+  "_id": {
+    "$oid": "65af97d815c37c2337082a3d"
+  },
+  "name": "Monaco",
+  "alpha2": "MC",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101352147",
+  "count": 52000
+},
+{
+  "_id": {
+    "$oid": "65af97d915c37c2337082a43"
+  },
+  "name": "Montenegro",
+  "alpha2": "ME",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100733275",
+  "count": 140000
+},
+{
+  "_id": {
+    "$oid": "65af97da15c37c2337082a4c"
+  },
+  "name": "Norway",
+  "alpha2": "NO",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103819153",
+  "count": 2700000
+},
+{
+  "_id": {
+    "$oid": "65af97da15c37c2337082a54"
+  },
+  "name": "Netherlands",
+  "alpha2": "NL",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102890719",
+  "count": 12000000
+},
+{
+  "_id": {
+    "$oid": "65af97db15c37c2337082a5a"
+  },
+  "name": "Poland",
+  "alpha2": "PL",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105072130",
+  "count": 6800000
+},
+{
+  "_id": {
+    "$oid": "65af97db15c37c2337082a60"
+  },
+  "name": "Portugal",
+  "alpha2": "PT",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100364837",
+  "count": 4900000
+},
+{
+  "_id": {
+    "$oid": "65af97dc15c37c2337082a6f"
+  },
+  "name": "United Kingdom",
+  "alpha2": "GB",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101165590",
+  "count": 40000000
+},
+{
+  "_id": {
+    "$oid": "65af97dd15c37c2337082a75"
+  },
+  "name": "Czechia",
+  "alpha2": "CZ",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104508036",
+  "count": 2500000
+},
+{
+  "_id": {
+    "$oid": "65af97de15c37c2337082a7b"
+  },
+  "name": "Romania",
+  "alpha2": "RO",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106670623",
+  "count": 4200000
+},
+{
+  "_id": {
+    "$oid": "65af97df15c37c2337082a84"
+  },
+  "name": "San Marino",
+  "alpha2": "SM",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105730022",
+  "count": 14000
+},
+{
+  "_id": {
+    "$oid": "65af97e015c37c2337082a8b"
+  },
+  "name": "Serbia",
+  "alpha2": "RS",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101855366",
+  "count": 1400000
+},
+{
+  "_id": {
+    "$oid": "65af97e015c37c2337082a8f"
+  },
+  "name": "Sweden",
+  "alpha2": "SE",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105117694",
+  "count": 5300000
+},
+{
+  "_id": {
+    "$oid": "65af97e115c37c2337082a95"
+  },
+  "name": "Switzerland",
+  "alpha2": "CH",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106693272",
+  "count": 4400000
+},
+{
+  "_id": {
+    "$oid": "65af97e215c37c2337082a9d"
+  },
+  "name": "Ukraine",
+  "alpha2": "UA",
+  "ancestorUrns": [
+    "urn:li:geo:100506914"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102264497",
+  "count": 5100000
+},
+{
+  "_id": {
+    "$oid": "65af97e315c37c2337082aa8"
+  },
+  "name": "Afghanistan",
+  "alpha2": "AF",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101240012",
+  "count": 510000
+},
+{
+  "_id": {
+    "$oid": "65af97e415c37c2337082aaf"
+  },
+  "name": "Saudi Arabia",
+  "alpha2": "SA",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100459316",
+  "count": 9100000
+},
+{
+  "_id": {
+    "$oid": "65af97e515c37c2337082ab6"
+  },
+  "name": "Armenia",
+  "alpha2": "AM",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103030111",
+  "count": 400000
+},
+{
+  "_id": {
+    "$oid": "65af97e615c37c2337082abc"
+  },
+  "name": "Azerbaijan",
+  "alpha2": "AZ",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103226548",
+  "count": 850000
+},
+{
+  "_id": {
+    "$oid": "65af97e615c37c2337082ac4"
+  },
+  "name": "Bangladesh",
+  "alpha2": "BD",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106215326",
+  "count": 8100000
+},
+{
+  "_id": {
+    "$oid": "65af97e715c37c2337082acd"
+  },
+  "name": "Bahrain",
+  "alpha2": "BH",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100425729",
+  "count": 570000
+},
+{
+  "_id": {
+    "$oid": "65af97e915c37c2337082ad7"
+  },
+  "name": "Bhutan",
+  "alpha2": "BT",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103613266",
+  "count": 110000
+},
+{
+  "_id": {
+    "$oid": "65af97e915c37c2337082adc"
+  },
+  "name": "Cambodia",
+  "alpha2": "KH",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102500897",
+  "count": 670000
+},
+{
+  "_id": {
+    "$oid": "65af97ea15c37c2337082ae3"
+  },
+  "name": "China",
+  "alpha2": "CN",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102890883",
+  "count": 6000000
+},
+{
+  "_id": {
+    "$oid": "65af97ea15c37c2337082ae9"
+  },
+  "name": "Cyprus",
+  "alpha2": "CY",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106774002",
+  "count": 490000
+},
+{
+  "_id": {
+    "$oid": "65af97ec15c37c2337082af3"
+  },
+  "name": "United Arab Emirates",
+  "alpha2": "AE",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104305776",
+  "count": 8000000
+},
+{
+  "_id": {
+    "$oid": "65af97ec15c37c2337082af9"
+  },
+  "name": "Philippines",
+  "alpha2": "PH",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103121230",
+  "count": 16000000
+},
+{
+  "_id": {
+    "$oid": "65af97ed15c37c2337082b01"
+  },
+  "name": "Georgia",
+  "alpha2": "GE",
+  "ancestorUrns": [
+    "urn:li:geo:117807499"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106315325",
+  "count": 660000
+},
+{
+  "_id": {
+    "$oid": "65af97ee15c37c2337082b0d"
+  },
+  "name": "India",
+  "alpha2": "IN",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102713980",
+  "count": 120000000
+},
+{
+  "_id": {
+    "$oid": "65af97ef15c37c2337082b13"
+  },
+  "name": "Indonesia",
+  "alpha2": "ID",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102478259",
+  "count": 27000000
+},
+{
+  "_id": {
+    "$oid": "65af97f015c37c2337082b1e"
+  },
+  "name": "Iraq",
+  "alpha2": "IQ",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106725625",
+  "count": 2000000
+},
+{
+  "_id": {
+    "$oid": "65af97f115c37c2337082b25"
+  },
+  "name": "Israel",
+  "alpha2": "IL",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101620260",
+  "count": 2600000
+},
+{
+  "_id": {
+    "$oid": "65af97f215c37c2337082b2b"
+  },
+  "name": "Japan",
+  "alpha2": "JP",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101355337",
+  "count": 4100000
+},
+{
+  "_id": {
+    "$oid": "65af97f215c37c2337082b31"
+  },
+  "name": "Jordan",
+  "alpha2": "JO",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103710677",
+  "count": 1700000
+},
+{
+  "_id": {
+    "$oid": "65af97f315c37c2337082b38"
+  },
+  "name": "Kazakhstan",
+  "alpha2": "KZ",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106049128",
+  "count": 1400000
+},
+{
+  "_id": {
+    "$oid": "65af97f415c37c2337082b3e"
+  },
+  "name": "Kyrgyzstan",
+  "alpha2": "KG",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103490790",
+  "count": 250000
+},
+{
+  "_id": {
+    "$oid": "65af97f415c37c2337082b48"
+  },
+  "name": "Kuwait",
+  "alpha2": "KW",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103239229",
+  "count": 1100000
+},
+{
+  "_id": {
+    "$oid": "65af97f615c37c2337082b52"
+  },
+  "name": "Lebanon",
+  "alpha2": "LB",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101834488",
+  "count": 1200000
+},
+{
+  "_id": {
+    "$oid": "65af97f715c37c2337082b5e"
+  },
+  "name": "Malaysia",
+  "alpha2": "MY",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106808692",
+  "count": 8000000
+},
+{
+  "_id": {
+    "$oid": "65af97f815c37c2337082b65"
+  },
+  "name": "Maldives",
+  "alpha2": "MV",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102161637",
+  "count": 160000
+},
+{
+  "_id": {
+    "$oid": "65af97f815c37c2337082b6c"
+  },
+  "name": "Mongolia",
+  "alpha2": "MN",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102396337",
+  "count": 290000
+},
+{
+  "_id": {
+    "$oid": "65af97f915c37c2337082b70"
+  },
+  "name": "Myanmar",
+  "alpha2": "MM",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104136533",
+  "count": 910000
+},
+{
+  "_id": {
+    "$oid": "65af97fa15c37c2337082b78"
+  },
+  "name": "Nepal",
+  "alpha2": "NP",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104630404",
+  "count": 1500000
+},
+{
+  "_id": {
+    "$oid": "65af97fa15c37c2337082b7e"
+  },
+  "name": "Oman",
+  "alpha2": "OM",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103619019",
+  "count": 960000
+},
+{
+  "_id": {
+    "$oid": "65af97fb15c37c2337082b82"
+  },
+  "name": "Pakistan",
+  "alpha2": "PK",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101022442",
+  "count": 12000000
+},
+{
+  "_id": {
+    "$oid": "65af97fc15c37c2337082b8c"
+  },
+  "name": "Qatar",
+  "alpha2": "QA",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104170880",
+  "count": 1500000
+},
+{
+  "_id": {
+    "$oid": "65af97fd15c37c2337082b93"
+  },
+  "name": "Singapore",
+  "alpha2": "SG",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102454443",
+  "count": 4300000
+},
+{
+  "_id": {
+    "$oid": "65af97fe15c37c2337082b9c"
+  },
+  "name": "Sri Lanka",
+  "alpha2": "LK",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100446352",
+  "count": 2200000
+},
+{
+  "_id": {
+    "$oid": "65af97fe15c37c2337082ba3"
+  },
+  "name": "Thailand",
+  "alpha2": "TH",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105146118",
+  "count": 5100000
+},
+{
+  "_id": {
+    "$oid": "65af97ff15c37c2337082bae"
+  },
+  "name": "Taiwan",
+  "alpha2": "TW",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104187078",
+  "count": 3400000
+},
+{
+  "_id": {
+    "$oid": "65af980015c37c2337082bb3"
+  },
+  "name": "Tajikistan",
+  "alpha2": "TJ",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105925962",
+  "count": 89000
+},
+{
+  "_id": {
+    "$oid": "65af980115c37c2337082bc1"
+  },
+  "name": "Turkmenistan",
+  "alpha2": "TM",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105449295",
+  "count": 66000
+},
+{
+  "_id": {
+    "$oid": "65af980215c37c2337082bc8"
+  },
+  "name": "Turkey",
+  "alpha2": "TR",
+  "ancestorUrns": [
+    "urn:li:geo:117807499"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102105699",
+  "count": 16000000
+},
+{
+  "_id": {
+    "$oid": "65af980215c37c2337082bcf"
+  },
+  "name": "Uzbekistan",
+  "alpha2": "UZ",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:107734735",
+  "count": 650000
+},
+{
+  "_id": {
+    "$oid": "65af980415c37c2337082bdb"
+  },
+  "name": "Yemen",
+  "alpha2": "YE",
+  "ancestorUrns": [
+    "urn:li:geo:102393603"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105962095",
+  "count": 510000
+},
+{
+  "_id": {
+    "$oid": "65af980415c37c2337082be1"
+  },
+  "name": "Argentina",
+  "alpha2": "AR",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100446943",
+  "count": 13000000
+},
+{
+  "_id": {
+    "$oid": "65af980515c37c2337082be7"
+  },
+  "name": "Bolivia",
+  "alpha2": "BO",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104379274",
+  "count": 1600000
+},
+{
+  "_id": {
+    "$oid": "65af980615c37c2337082bf0"
+  },
+  "name": "Brazil",
+  "alpha2": "BR",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106057199",
+  "count": 69000000
+},
+{
+  "_id": {
+    "$oid": "65af980715c37c2337082bf6"
+  },
+  "name": "Chile",
+  "alpha2": "CL",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104621616",
+  "count": 8000000
+},
+{
+  "_id": {
+    "$oid": "65af980715c37c2337082bfd"
+  },
+  "name": "Colombia",
+  "alpha2": "CO",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100876405",
+  "count": 14000000
+},
+{
+  "_id": {
+    "$oid": "65af980815c37c2337082c04"
+  },
+  "name": "Ecuador",
+  "alpha2": "EC",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106373116",
+  "count": 4500000
+},
+{
+  "_id": {
+    "$oid": "65af980915c37c2337082c0a"
+  },
+  "name": "French Guiana",
+  "alpha2": "GF",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105001561",
+  "count": 51000
+},
+{
+  "_id": {
+    "$oid": "65af980a15c37c2337082c10"
+  },
+  "name": "Guyana",
+  "alpha2": "GY",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105836293",
+  "count": 140000
+},
+{
+  "_id": {
+    "$oid": "65af980b15c37c2337082c1b"
+  },
+  "name": "Paraguay",
+  "alpha2": "PY",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104065273",
+  "count": 890000
+},
+{
+  "_id": {
+    "$oid": "65af980b15c37c2337082c23"
+  },
+  "name": "Peru",
+  "alpha2": "PE",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102927786",
+  "count": 9100000
+},
+{
+  "_id": {
+    "$oid": "65af980c15c37c2337082c2c"
+  },
+  "name": "Suriname",
+  "alpha2": "SR",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105530931",
+  "count": 110000
+},
+{
+  "_id": {
+    "$oid": "65af980d15c37c2337082c36"
+  },
+  "name": "Uruguay",
+  "alpha2": "UY",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100867946",
+  "count": 1400000
+},
+{
+  "_id": {
+    "$oid": "65af980e15c37c2337082c3d"
+  },
+  "name": "Venezuela",
+  "alpha2": "VE",
+  "ancestorUrns": [
+    "urn:li:geo:104514572"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101490751",
+  "count": 4900000
+},
+{
+  "_id": {
+    "$oid": "65af980e15c37c2337082c44"
+  },
+  "name": "Belize",
+  "alpha2": "BZ",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105912732",
+  "count": 93000
+},
+{
+  "_id": {
+    "$oid": "65af980f15c37c2337082c4a"
+  },
+  "name": "Costa Rica",
+  "alpha2": "CR",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101739942",
+  "count": 1700000
+},
+{
+  "_id": {
+    "$oid": "65af981015c37c2337082c50"
+  },
+  "name": "El Salvador",
+  "alpha2": "SV",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106522560",
+  "count": 880000
+},
+{
+  "_id": {
+    "$oid": "65af981015c37c2337082c56"
+  },
+  "name": "Guatemala",
+  "alpha2": "GT",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100877388",
+  "count": 1500000
+},
+{
+  "_id": {
+    "$oid": "65af981115c37c2337082c5d"
+  },
+  "name": "Honduras",
+  "alpha2": "HN",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101937718",
+  "count": 810000
+},
+{
+  "_id": {
+    "$oid": "65af981215c37c2337082c67"
+  },
+  "name": "Nicaragua",
+  "alpha2": "NI",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105517145",
+  "count": 630000
+},
+{
+  "_id": {
+    "$oid": "65af981315c37c2337082c6b"
+  },
+  "name": "Panama",
+  "alpha2": "PA",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100808673",
+  "count": 1300000
+},
+{
+  "_id": {
+    "$oid": "65af981315c37c2337082c71"
+  },
+  "name": "Antigua and Barbuda",
+  "alpha2": "AG",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100270819",
+  "count": 46000
+},
+{
+  "_id": {
+    "$oid": "65af981415c37c2337082c75"
+  },
+  "name": "Aruba",
+  "alpha2": "AW",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105763200",
+  "count": 63000
+},
+{
+  "_id": {
+    "$oid": "65af981515c37c2337082c7d"
+  },
+  "name": "Barbados",
+  "alpha2": "BB",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102118611",
+  "count": 150000
+},
+{
+  "_id": {
+    "$oid": "65af981615c37c2337082c8c"
+  },
+  "name": "Cayman Islands",
+  "alpha2": "KY",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101679506",
+  "count": 63000
+},
+{
+  "_id": {
+    "$oid": "65af981815c37c2337082c98"
+  },
+  "name": "Dominica",
+  "alpha2": "DM",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100720695",
+  "count": 25000
+},
+{
+  "_id": {
+    "$oid": "65af981915c37c2337082c9d"
+  },
+  "name": "Dominican Republic",
+  "alpha2": "DO",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105057336",
+  "count": 1800000
+},
+{
+  "_id": {
+    "$oid": "65af981915c37c2337082ca0"
+  },
+  "name": "Grenada",
+  "alpha2": "GD",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104579260",
+  "count": 43000
+},
+{
+  "_id": {
+    "$oid": "65af981a15c37c2337082ca3"
+  },
+  "name": "Guadeloupe",
+  "alpha2": "GP",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104232339",
+  "count": 130000
+},
+{
+  "_id": {
+    "$oid": "65af981b15c37c2337082ca6"
+  },
+  "name": "Haiti",
+  "alpha2": "HT",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100993490",
+  "count": 320000
+},
+{
+  "_id": {
+    "$oid": "65af981b15c37c2337082caa"
+  },
+  "name": "Jamaica",
+  "alpha2": "JM",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105126983",
+  "count": 780000
+},
+{
+  "_id": {
+    "$oid": "65af981c15c37c2337082cae"
+  },
+  "name": "Martinique",
+  "alpha2": "MQ",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103091690",
+  "count": 120000
+},
+{
+  "_id": {
+    "$oid": "65af981d15c37c2337082cb1"
+  },
+  "name": "Montserrat",
+  "alpha2": "MS",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101150476",
+  "count": 3500
+},
+{
+  "_id": {
+    "$oid": "65af981d15c37c2337082cb4"
+  },
+  "name": "Puerto Rico",
+  "alpha2": "PR",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105245958",
+  "count": 1000000
+},
+{
+  "_id": {
+    "$oid": "65af981e15c37c2337082cb7"
+  },
+  "name": "Saint Kitts and Nevis",
+  "alpha2": "KN",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102098694",
+  "count": 22000
+},
+{
+  "_id": {
+    "$oid": "65af981f15c37c2337082cbd"
+  },
+  "name": "Saint Vincent and the Grenadines",
+  "alpha2": "VC",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104703990",
+  "count": 33000
+},
+{
+  "_id": {
+    "$oid": "65af982015c37c2337082cc3"
+  },
+  "name": "Saint Lucia",
+  "alpha2": "LC",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104022923",
+  "count": 61000
+},
+{
+  "_id": {
+    "$oid": "65af982215c37c2337082cc7"
+  },
+  "name": "Trinidad and Tobago",
+  "alpha2": "TT",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106947126",
+  "count": 570000
+},
+{
+  "_id": {
+    "$oid": "65af982215c37c2337082cca"
+  },
+  "name": "Turks and Caicos Islands",
+  "alpha2": "TC",
+  "ancestorUrns": [
+    "urn:li:geo:102221843"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100771715",
+  "count": 22000
+},
+{
+  "_id": {
+    "$oid": "65af982315c37c2337082cce"
+  },
+  "name": "American Samoa",
+  "alpha2": "AS",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102431220",
+  "count": 41000
+},
+{
+  "_id": {
+    "$oid": "65af982415c37c2337082cd1"
+  },
+  "name": "Australia",
+  "alpha2": "AU",
+  "ancestorUrns": [
+    "urn:li:geo:100506852"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101452733",
+  "count": 15000000
+},
+{
+  "_id": {
+    "$oid": "65af982515c37c2337082cd4"
+  },
+  "name": "Cook Islands",
+  "alpha2": "CK",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103118752",
+  "count": 7500
+},
+{
+  "_id": {
+    "$oid": "65af982615c37c2337082cda"
+  },
+  "name": "Fiji",
+  "alpha2": "FJ",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105733447",
+  "count": 230000
+},
+{
+  "_id": {
+    "$oid": "65af982615c37c2337082cdd"
+  },
+  "name": "French Polynesia",
+  "alpha2": "PF",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102681285",
+  "count": 73000
+},
+{
+  "_id": {
+    "$oid": "65af982715c37c2337082ce0"
+  },
+  "name": "Guam",
+  "alpha2": "GU",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:107006862",
+  "count": 80000
+},
+{
+  "_id": {
+    "$oid": "65af982815c37c2337082ce3"
+  },
+  "name": "Kiribati",
+  "alpha2": "KI",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104742735",
+  "count": 11000
+},
+{
+  "_id": {
+    "$oid": "65af982815c37c2337082ce6"
+  },
+  "name": "Marshall Islands",
+  "alpha2": "MH",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106516799",
+  "count": 10000
+},
+{
+  "_id": {
+    "$oid": "65af982915c37c2337082ceb"
+  },
+  "name": "Nauru",
+  "alpha2": "NR",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100348836",
+  "count": 3700
+},
+{
+  "_id": {
+    "$oid": "65af982a15c37c2337082cef"
+  },
+  "name": "New Caledonia",
+  "alpha2": "NC",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105535747",
+  "count": 81000
+},
+{
+  "_id": {
+    "$oid": "65af982a15c37c2337082cf2"
+  },
+  "name": "New Zealand",
+  "alpha2": "NZ",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105490917",
+  "count": 2800000
+},
+{
+  "_id": {
+    "$oid": "65af982b15c37c2337082cf6"
+  },
+  "name": "Niue",
+  "alpha2": "NU",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102139488",
+  "count": 2700
+},
+{
+  "_id": {
+    "$oid": "65af982b15c37c2337082cf9"
+  },
+  "name": "Norfolk Island",
+  "alpha2": "NF",
+  "ancestorUrns": [
+    "urn:li:geo:100506852"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:116224156",
+  "count": 2600
+},
+{
+  "_id": {
+    "$oid": "65af982c15c37c2337082cfc"
+  },
+  "name": "Northern Mariana Islands",
+  "alpha2": "MP",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103666514",
+  "count": 16000
+},
+{
+  "_id": {
+    "$oid": "65af982d15c37c2337082cff"
+  },
+  "name": "Palau",
+  "alpha2": "PW",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106779877",
+  "count": 7700
+},
+{
+  "_id": {
+    "$oid": "65af982d15c37c2337082d02"
+  },
+  "name": "Papua New Guinea",
+  "alpha2": "PG",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100152180",
+  "count": 410000
+},
+{
+  "_id": {
+    "$oid": "65af982f15c37c2337082d06"
+  },
+  "name": "Samoa",
+  "alpha2": "WS",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104031721",
+  "count": 19000
+},
+{
+  "_id": {
+    "$oid": "65af982f15c37c2337082d0a"
+  },
+  "name": "Solomon Islands",
+  "alpha2": "SB",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104980134",
+  "count": 25000
+},
+{
+  "_id": {
+    "$oid": "65af983015c37c2337082d0e"
+  },
+  "name": "Tokelau",
+  "alpha2": "TK",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100212364",
+  "count": 1700
+},
+{
+  "_id": {
+    "$oid": "65af983015c37c2337082d11"
+  },
+  "name": "Tonga",
+  "alpha2": "TO",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105646927",
+  "count": 15000
+},
+{
+  "_id": {
+    "$oid": "65af983115c37c2337082d14"
+  },
+  "name": "Tuvalu",
+  "alpha2": "TV",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103609605",
+  "count": 3600
+},
+{
+  "_id": {
+    "$oid": "65af983215c37c2337082d17"
+  },
+  "name": "Vanuatu",
+  "alpha2": "VU",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102185308",
+  "count": 21000
+},
+{
+  "_id": {
+    "$oid": "65af983215c37c2337082d1a"
+  },
+  "name": "Wallis and Futuna",
+  "alpha2": "WF",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104246629",
+  "count": 3600
+},
+{
+  "_id": {
+    "$oid": "65af983315c37c2337082d1e"
+  },
+  "name": "Angola",
+  "alpha2": "AO",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105371935",
+  "count": 920000
+},
+{
+  "_id": {
+    "$oid": "65af983315c37c2337082d22"
+  },
+  "name": "Algeria",
+  "alpha2": "DZ",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106395874",
+  "count": 4000000
+},
+{
+  "_id": {
+    "$oid": "65af983415c37c2337082d26"
+  },
+  "name": "Benin",
+  "alpha2": "BJ",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101519029",
+  "count": 480000
+},
+{
+  "_id": {
+    "$oid": "65af983515c37c2337082d2a"
+  },
+  "name": "Botswana",
+  "alpha2": "BW",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105698121",
+  "count": 400000
+},
+{
+  "_id": {
+    "$oid": "65af983515c37c2337082d2d"
+  },
+  "name": "Burkina Faso",
+  "alpha2": "BF",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100587095",
+  "count": 360000
+},
+{
+  "_id": {
+    "$oid": "65af983615c37c2337082d30"
+  },
+  "name": "Burundi",
+  "alpha2": "BI",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100800406",
+  "count": 86000
+},
+{
+  "_id": {
+    "$oid": "65af983715c37c2337082d34"
+  },
+  "name": "Cameroon",
+  "alpha2": "CM",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105745966",
+  "count": 1200000
+},
+{
+  "_id": {
+    "$oid": "65af983815c37c2337082d37"
+  },
+  "name": "Chad",
+  "alpha2": "TD",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104655384",
+  "count": 99000
+},
+{
+  "_id": {
+    "$oid": "65af983815c37c2337082d3a"
+  },
+  "name": "Côte d'Ivoire",
+  "alpha2": "CI",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103295271",
+  "count": 1400000
+},
+{
+  "_id": {
+    "$oid": "65af983915c37c2337082d3e"
+  },
+  "name": "Egypt",
+  "alpha2": "EG",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106155005",
+  "count": 10000000
+},
+{
+  "_id": {
+    "$oid": "65af983a15c37c2337082d42"
+  },
+  "name": "Eritrea",
+  "alpha2": "ER",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104219996",
+  "count": 11000
+},
+{
+  "_id": {
+    "$oid": "65af983a15c37c2337082d45"
+  },
+  "name": "Ethiopia",
+  "alpha2": "ET",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100212432",
+  "count": 1100000
+},
+{
+  "_id": {
+    "$oid": "65af983b15c37c2337082d48"
+  },
+  "name": "Gabon",
+  "alpha2": "GA",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104471338",
+  "count": 230000
+},
+{
+  "_id": {
+    "$oid": "65af983c15c37c2337082d4c"
+  },
+  "name": "Ghana",
+  "alpha2": "GH",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105769538",
+  "count": 2600000
+},
+{
+  "_id": {
+    "$oid": "65af983d15c37c2337082d4f"
+  },
+  "name": "Guinea",
+  "alpha2": "GW",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100099594",
+  "count": 260000
+},
+{
+  "_id": {
+    "$oid": "65af983d15c37c2337082d54"
+  },
+  "name": "Equatorial Guinea",
+  "alpha2": "GQ",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105141335",
+  "count": 38000
+},
+{
+  "_id": {
+    "$oid": "65af983f15c37c2337082d5b"
+  },
+  "name": "Comoros",
+  "alpha2": "KM",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103069791",
+  "count": 24000
+},
+{
+  "_id": {
+    "$oid": "65af983f15c37c2337082d5e"
+  },
+  "name": "Kenya",
+  "alpha2": "KE",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100710459",
+  "count": 4400000
+},
+{
+  "_id": {
+    "$oid": "65af984015c37c2337082d61"
+  },
+  "name": "Lesotho",
+  "alpha2": "LS",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103712797",
+  "count": 110000
+},
+{
+  "_id": {
+    "$oid": "65af984015c37c2337082d64"
+  },
+  "name": "Liberia",
+  "alpha2": "LR",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106579411",
+  "count": 160000
+},
+{
+  "_id": {
+    "$oid": "65af984115c37c2337082d67"
+  },
+  "name": "Libya",
+  "alpha2": "LY",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104036859",
+  "count": 520000
+},
+{
+  "_id": {
+    "$oid": "65af984215c37c2337082d6a"
+  },
+  "name": "Madagascar",
+  "alpha2": "MG",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105587166",
+  "count": 400000
+},
+{
+  "_id": {
+    "$oid": "65af984215c37c2337082d6d"
+  },
+  "name": "Malawi",
+  "alpha2": "MW",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105992277",
+  "count": 300000
+},
+{
+  "_id": {
+    "$oid": "65af984315c37c2337082d71"
+  },
+  "name": "Mali",
+  "alpha2": "ML",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100770782",
+  "count": 360000
+},
+{
+  "_id": {
+    "$oid": "65af984415c37c2337082d75"
+  },
+  "name": "Morocco",
+  "alpha2": "MA",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102787409",
+  "count": 5100000
+},
+{
+  "_id": {
+    "$oid": "65af984415c37c2337082d78"
+  },
+  "name": "Mauritius",
+  "alpha2": "MU",
+  "ancestorUrns": [
+    "urn:li:geo:117111890"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106931611",
+  "count": 460000
+},
+{
+  "_id": {
+    "$oid": "65af984515c37c2337082d7b"
+  },
+  "name": "Mauritania",
+  "alpha2": "MR",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106950838",
+  "count": 130000
+},
+{
+  "_id": {
+    "$oid": "65af984515c37c2337082d7e"
+  },
+  "name": "Mayotte",
+  "alpha2": "YT",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104097939",
+  "count": 27000
+},
+{
+  "_id": {
+    "$oid": "65af984615c37c2337082d81"
+  },
+  "name": "Mozambique",
+  "alpha2": "MZ",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100474128",
+  "count": 620000
+},
+{
+  "_id": {
+    "$oid": "65af984715c37c2337082d85"
+  },
+  "name": "Namibia",
+  "alpha2": "NA",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106682822",
+  "count": 390000
+},
+{
+  "_id": {
+    "$oid": "65af984715c37c2337082d89"
+  },
+  "name": "Niger",
+  "alpha2": "NE",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103550069",
+  "count": 140000
+},
+{
+  "_id": {
+    "$oid": "65af984815c37c2337082d8d"
+  },
+  "name": "Nigeria",
+  "alpha2": "NG",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:105365761",
+  "count": 9300000
+},
+{
+  "_id": {
+    "$oid": "65af984915c37c2337082d91"
+  },
+  "name": "Central African Republic",
+  "alpha2": "CF",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100134827",
+  "count": 39000
+},
+{
+  "_id": {
+    "$oid": "65af984b15c37c2337082d97"
+  },
+  "name": "Rwanda",
+  "alpha2": "RW",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103547315",
+  "count": 380000
+},
+{
+  "_id": {
+    "$oid": "65af984e15c37c2337082d9f"
+  },
+  "name": "Senegal",
+  "alpha2": "SN",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103587512",
+  "count": 1100000
+},
+{
+  "_id": {
+    "$oid": "65af984e15c37c2337082da2"
+  },
+  "name": "Seychelles",
+  "alpha2": "SC",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:107007050",
+  "count": 50000
+},
+{
+  "_id": {
+    "$oid": "65af984f15c37c2337082da5"
+  },
+  "name": "Sierra Leone",
+  "alpha2": "SL",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106524187",
+  "count": 150000
+},
+{
+  "_id": {
+    "$oid": "65af985015c37c2337082da8"
+  },
+  "name": "Somalia",
+  "alpha2": "SO",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104725424",
+  "count": 310000
+},
+{
+  "_id": {
+    "$oid": "65af985015c37c2337082dab"
+  },
+  "name": "Eswatini",
+  "alpha2": "SZ",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106768907",
+  "count": 110000
+},
+{
+  "_id": {
+    "$oid": "65af985115c37c2337082db0"
+  },
+  "name": "South Africa",
+  "alpha2": "ZA",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104035573",
+  "count": 13000000
+},
+{
+  "_id": {
+    "$oid": "65af985215c37c2337082db3"
+  },
+  "name": "South Sudan",
+  "alpha2": "SS",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103622308",
+  "count": 84000
+},
+{
+  "_id": {
+    "$oid": "65af985215c37c2337082db7"
+  },
+  "name": "Tanzania",
+  "alpha2": "TZ",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:104604145",
+  "count": 1300000
+},
+{
+  "_id": {
+    "$oid": "65af985315c37c2337082dbb"
+  },
+  "name": "Togo",
+  "alpha2": "TG",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:103603395",
+  "count": 320000
+},
+{
+  "_id": {
+    "$oid": "65af985315c37c2337082dbe"
+  },
+  "name": "Tunisia",
+  "alpha2": "TN",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102134353",
+  "count": 2100000
+},
+{
+  "_id": {
+    "$oid": "65af985415c37c2337082dc1"
+  },
+  "name": "Uganda",
+  "alpha2": "UG",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:106943612",
+  "count": 1300000
+},
+{
+  "_id": {
+    "$oid": "65af985415c37c2337082dc4"
+  },
+  "name": "Djibouti",
+  "alpha2": "DJ",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:100371290",
+  "count": 70000
+},
+{
+  "_id": {
+    "$oid": "65af985515c37c2337082dc7"
+  },
+  "name": "Zambia",
+  "alpha2": "ZM",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:102120260",
+  "count": 820000
+},
+{
+  "_id": {
+    "$oid": "65af985615c37c2337082dca"
+  },
+  "name": "Zimbabwe",
+  "alpha2": "ZW",
+  "ancestorUrns": [
+    "urn:li:geo:103537801"
+  ],
+  "facetUrn": "urn:li:adTargetingFacet:locations",
+  "targetable": true,
+  "urn": "urn:li:geo:101367137",
+  "count": 900000
+}]
