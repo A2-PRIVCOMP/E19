@@ -1,0 +1,3195 @@
+[{
+  "_id": {
+    "$oid": "65af978c15c37c2337082802"
+  },
+  "metadata": {
+    "country_code": "BM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "360981d61a4350f3",
+  "audience_size": 15240,
+  "label": "Bermuda",
+  "rich_label": "Country — Bermuda",
+  "targeting_id": "391"
+},
+{
+  "_id": {
+    "$oid": "65af978d15c37c2337082805"
+  },
+  "metadata": {
+    "country_code": "CA",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "3376992a082d67c7",
+  "audience_size": 14235640,
+  "label": "Canada",
+  "rich_label": "Country — Canada",
+  "targeting_id": "1"
+},
+{
+  "_id": {
+    "$oid": "65af978d15c37c2337082808"
+  },
+  "metadata": {
+    "country_code": "US",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "96683cc9126741d1",
+  "audience_size": 104154010,
+  "label": "United States of America",
+  "rich_label": "Country — United States of America",
+  "targeting_id": "2"
+},
+{
+  "_id": {
+    "$oid": "65af978d15c37c233708280a"
+  },
+  "metadata": {
+    "country_code": "UM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "08fbcf4cbc4bc5b9",
+  "audience_size": 790,
+  "label": "United States Minor Outlying Islands",
+  "rich_label": "Country — United States Minor Outlying Islands",
+  "targeting_id": "47"
+},
+{
+  "_id": {
+    "$oid": "65af978e15c37c233708280d"
+  },
+  "metadata": {
+    "country_code": "GL",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2e61574e29165969",
+  "audience_size": 7680,
+  "label": "Greenland",
+  "rich_label": "Country — Greenland",
+  "targeting_id": "155"
+},
+{
+  "_id": {
+    "$oid": "65af978f15c37c2337082810"
+  },
+  "metadata": {
+    "country_code": "MX",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "25530ba03b7d90c6",
+  "audience_size": 17803900,
+  "label": "Mexico",
+  "rich_label": "Country — Mexico",
+  "targeting_id": "40"
+},
+{
+  "_id": {
+    "$oid": "65af978f15c37c2337082814"
+  },
+  "metadata": {
+    "country_code": "PM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "e88c91f9f97e3d41",
+  "audience_size": 750,
+  "label": "Saint Pierre and Miquelon",
+  "rich_label": "Country — Saint Pierre and Miquelon",
+  "targeting_id": "382"
+},
+{
+  "_id": {
+    "$oid": "65af979015c37c2337082818"
+  },
+  "metadata": {
+    "country_code": "AL",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "82779978c58253a6",
+  "audience_size": 278570,
+  "label": "Albania",
+  "rich_label": "Country — Albania",
+  "targeting_id": "297"
+},
+{
+  "_id": {
+    "$oid": "65af979015c37c233708281b"
+  },
+  "metadata": {
+    "country_code": "DE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "fdcd221ac44fa326",
+  "audience_size": 15963770,
+  "label": "Germany",
+  "rich_label": "Country — Germany",
+  "targeting_id": "19"
+},
+{
+  "_id": {
+    "$oid": "65af979115c37c233708281e"
+  },
+  "metadata": {
+    "country_code": "AD",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "0a51cbf77aee0006",
+  "audience_size": 45560,
+  "label": "Andorra",
+  "rich_label": "Country — Andorra",
+  "targeting_id": "296"
+},
+{
+  "_id": {
+    "$oid": "65af979215c37c2337082821"
+  },
+  "metadata": {
+    "country_code": "AT",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "30410557050f13a5",
+  "audience_size": 1681490,
+  "label": "Austria",
+  "rich_label": "Country — Austria",
+  "targeting_id": "38"
+},
+{
+  "_id": {
+    "$oid": "65af979215c37c2337082824"
+  },
+  "metadata": {
+    "country_code": "BE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "78bfaf3f12c05982",
+  "audience_size": 1907060,
+  "label": "Belgium",
+  "rich_label": "Country — Belgium",
+  "targeting_id": "59"
+},
+{
+  "_id": {
+    "$oid": "65af979315c37c2337082827"
+  },
+  "metadata": {
+    "country_code": "BY",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "333a5811d6b0c1cb",
+  "audience_size": 217610,
+  "label": "Republic of Belarus",
+  "rich_label": "Country — Republic of Belarus",
+  "targeting_id": "304"
+},
+{
+  "_id": {
+    "$oid": "65af979315c37c233708282a"
+  },
+  "metadata": {
+    "country_code": "BA",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "7dc97830ee71b3cb",
+  "audience_size": 163920,
+  "label": "Bosnia and Herzegovina",
+  "rich_label": "Country — Bosnia and Herzegovina",
+  "targeting_id": "308"
+},
+{
+  "_id": {
+    "$oid": "65af979415c37c233708282e"
+  },
+  "metadata": {
+    "country_code": "BG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "1ef1183ed7056dc1",
+  "audience_size": 516840,
+  "label": "Bulgaria",
+  "rich_label": "Country — Bulgaria",
+  "targeting_id": "269"
+},
+{
+  "_id": {
+    "$oid": "65af979415c37c2337082832"
+  },
+  "metadata": {
+    "country_code": "HR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "8d65596349ee2e01",
+  "audience_size": 640910,
+  "label": "Republic of Croatia",
+  "rich_label": "Country — Republic of Croatia",
+  "targeting_id": "265"
+},
+{
+  "_id": {
+    "$oid": "65af979515c37c2337082835"
+  },
+  "metadata": {
+    "country_code": "DK",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "c29833e68a86e703",
+  "audience_size": 1051640,
+  "label": "Denmark",
+  "rich_label": "Country — Denmark",
+  "targeting_id": "55"
+},
+{
+  "_id": {
+    "$oid": "65af979615c37c233708283b"
+  },
+  "metadata": {
+    "country_code": "SI",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "58f54743b1a62911",
+  "audience_size": 202160,
+  "label": "Republic of Slovenia",
+  "rich_label": "Country — Republic of Slovenia",
+  "targeting_id": "263"
+},
+{
+  "_id": {
+    "$oid": "65af979715c37c233708283e"
+  },
+  "metadata": {
+    "country_code": "ES",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "ecdce75d48b13b64",
+  "audience_size": 11634980,
+  "label": "Spain",
+  "rich_label": "Country — Spain",
+  "targeting_id": "39"
+},
+{
+  "_id": {
+    "$oid": "65af979715c37c2337082841"
+  },
+  "metadata": {
+    "country_code": "EE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "e222580e9a58b499",
+  "audience_size": 314180,
+  "label": "Estonia",
+  "rich_label": "Country — Estonia",
+  "targeting_id": "311"
+},
+{
+  "_id": {
+    "$oid": "65af979815c37c2337082844"
+  },
+  "metadata": {
+    "country_code": "FI",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "e7c97cdfef3a741a",
+  "audience_size": 1933430,
+  "label": "Finland",
+  "rich_label": "Country — Finland",
+  "targeting_id": "57"
+},
+{
+  "_id": {
+    "$oid": "65af979815c37c2337082847"
+  },
+  "metadata": {
+    "country_code": "FR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "f3bfc7dcc928977f",
+  "audience_size": 17249070,
+  "label": "France",
+  "rich_label": "Country — France",
+  "targeting_id": "21"
+},
+{
+  "_id": {
+    "$oid": "65af979915c37c233708284b"
+  },
+  "metadata": {
+    "country_code": "GI",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "3137081efbd2677e",
+  "audience_size": 14550,
+  "label": "Gibraltar",
+  "rich_label": "Country — Gibraltar",
+  "targeting_id": "328"
+},
+{
+  "_id": {
+    "$oid": "65af979a15c37c233708284e"
+  },
+  "metadata": {
+    "country_code": "GR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2ee7eeaa84dbe65a",
+  "audience_size": 1246720,
+  "label": "Greece",
+  "rich_label": "Country — Greece",
+  "targeting_id": "152"
+},
+{
+  "_id": {
+    "$oid": "65af979a15c37c2337082852"
+  },
+  "metadata": {
+    "country_code": "GG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "82c0b3139851e08b",
+  "audience_size": 18180,
+  "label": "Guernsey",
+  "rich_label": "Country — Guernsey",
+  "targeting_id": "370"
+},
+{
+  "_id": {
+    "$oid": "65af979b15c37c2337082855"
+  },
+  "metadata": {
+    "country_code": "HU",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "81b8dcbe189773f2",
+  "audience_size": 1444940,
+  "label": "Hungary",
+  "rich_label": "Country — Hungary",
+  "targeting_id": "56"
+},
+{
+  "_id": {
+    "$oid": "65af979b15c37c2337082858"
+  },
+  "metadata": {
+    "country_code": "IE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "ea679934779f45c7",
+  "audience_size": 1780670,
+  "label": "Ireland",
+  "rich_label": "Country — Ireland",
+  "targeting_id": "42"
+},
+{
+  "_id": {
+    "$oid": "65af979c15c37c233708285c"
+  },
+  "metadata": {
+    "country_code": "IS",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "c3932d3da7922986",
+  "audience_size": 126030,
+  "label": "Iceland",
+  "rich_label": "Country — Iceland",
+  "targeting_id": "160"
+},
+{
+  "_id": {
+    "$oid": "65af979d15c37c233708285f"
+  },
+  "metadata": {
+    "country_code": "FO",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "5b1c430f0a25322e",
+  "audience_size": 6300,
+  "label": "Faroe Islands",
+  "rich_label": "Country — Faroe Islands",
+  "targeting_id": "351"
+},
+{
+  "_id": {
+    "$oid": "65af979e15c37c2337082863"
+  },
+  "metadata": {
+    "country_code": "IT",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "c799e2d3a79f810e",
+  "audience_size": 6423620,
+  "label": "Italy",
+  "rich_label": "Country — Italy",
+  "targeting_id": "46"
+},
+{
+  "_id": {
+    "$oid": "65af979e15c37c2337082866"
+  },
+  "metadata": {
+    "country_code": "JE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "5d6b876b71a00ef1",
+  "audience_size": 28820,
+  "label": "Jersey",
+  "rich_label": "Country — Jersey",
+  "targeting_id": "404"
+},
+{
+  "_id": {
+    "$oid": "65af979f15c37c233708286c"
+  },
+  "metadata": {
+    "country_code": "LV",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d0e642e8a900f679",
+  "audience_size": 537470,
+  "label": "Latvia",
+  "rich_label": "Country — Latvia",
+  "targeting_id": "310"
+},
+{
+  "_id": {
+    "$oid": "65af97a015c37c2337082871"
+  },
+  "metadata": {
+    "country_code": "LI",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "db367491e0c03477",
+  "audience_size": 14520,
+  "label": "Liechtenstein",
+  "rich_label": "Country — Liechtenstein",
+  "targeting_id": "301"
+},
+{
+  "_id": {
+    "$oid": "65af97a015c37c2337082874"
+  },
+  "metadata": {
+    "country_code": "LT",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d5cde4dddd7e6f94",
+  "audience_size": 1197740,
+  "label": "Lithuania",
+  "rich_label": "Country — Lithuania",
+  "targeting_id": "300"
+},
+{
+  "_id": {
+    "$oid": "65af97a115c37c2337082877"
+  },
+  "metadata": {
+    "country_code": "LU",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "a9928b6eaeb54f86",
+  "audience_size": 433110,
+  "label": "Luxembourg",
+  "rich_label": "Country — Luxembourg",
+  "targeting_id": "53"
+},
+{
+  "_id": {
+    "$oid": "65af97a215c37c233708287b"
+  },
+  "metadata": {
+    "country_code": "MT",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "1d834adff5d584df",
+  "audience_size": 110430,
+  "label": "Malta",
+  "rich_label": "Country — Malta",
+  "targeting_id": "299"
+},
+{
+  "_id": {
+    "$oid": "65af97a315c37c233708287e"
+  },
+  "metadata": {
+    "country_code": "MD",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "a89b926651acf416",
+  "audience_size": 116820,
+  "label": "Moldova",
+  "rich_label": "Country — Moldova",
+  "targeting_id": "303"
+},
+{
+  "_id": {
+    "$oid": "65af97a315c37c2337082882"
+  },
+  "metadata": {
+    "country_code": "MC",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "6c990e36e6fa8033",
+  "audience_size": 16930,
+  "label": "Monaco",
+  "rich_label": "Country — Monaco",
+  "targeting_id": "268"
+},
+{
+  "_id": {
+    "$oid": "65af97a415c37c2337082886"
+  },
+  "metadata": {
+    "country_code": "ME",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "c9506eee1d5f5143",
+  "audience_size": 76600,
+  "label": "Montenegro",
+  "rich_label": "Country — Montenegro",
+  "targeting_id": "305"
+},
+{
+  "_id": {
+    "$oid": "65af97a415c37c2337082889"
+  },
+  "metadata": {
+    "country_code": "NO",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "0ce8b9a7b2742f7e",
+  "audience_size": 1871760,
+  "label": "Norway",
+  "rich_label": "Country — Norway",
+  "targeting_id": "22"
+},
+{
+  "_id": {
+    "$oid": "65af97a515c37c233708288c"
+  },
+  "metadata": {
+    "country_code": "NL",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "879d7cfc66c9c290",
+  "audience_size": 8848230,
+  "label": "The Netherlands",
+  "rich_label": "Country — The Netherlands",
+  "targeting_id": "36"
+},
+{
+  "_id": {
+    "$oid": "65af97a515c37c233708288f"
+  },
+  "metadata": {
+    "country_code": "PL",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d9074951d5976bdf",
+  "audience_size": 5743290,
+  "label": "Poland",
+  "rich_label": "Country — Poland",
+  "targeting_id": "54"
+},
+{
+  "_id": {
+    "$oid": "65af97a615c37c2337082892"
+  },
+  "metadata": {
+    "country_code": "PT",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "8198e85105936d3c",
+  "audience_size": 1981080,
+  "label": "Portugal",
+  "rich_label": "Country — Portugal",
+  "targeting_id": "37"
+},
+{
+  "_id": {
+    "$oid": "65af97a715c37c2337082895"
+  },
+  "metadata": {
+    "country_code": "GB",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "6416b8512febefc9",
+  "audience_size": 25290580,
+  "label": "United Kingdom",
+  "rich_label": "Country — United Kingdom",
+  "targeting_id": "18"
+},
+{
+  "_id": {
+    "$oid": "65af97a815c37c233708289a"
+  },
+  "metadata": {
+    "country_code": "RO",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "f7531639e8db5e12",
+  "audience_size": 1491670,
+  "label": "Romania",
+  "rich_label": "Country — Romania",
+  "targeting_id": "267"
+},
+{
+  "_id": {
+    "$oid": "65af97a915c37c233708289f"
+  },
+  "metadata": {
+    "country_code": "SM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d9a15239f67eec6d",
+  "audience_size": 4170,
+  "label": "San Marino",
+  "rich_label": "Country — San Marino",
+  "targeting_id": "298"
+},
+{
+  "_id": {
+    "$oid": "65af97a915c37c23370828a2"
+  },
+  "metadata": {
+    "country_code": "RS",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "58a08d4ddc8aab9f",
+  "audience_size": 1327820,
+  "label": "Republic of Serbia",
+  "rich_label": "Country — Republic of Serbia",
+  "targeting_id": "309"
+},
+{
+  "_id": {
+    "$oid": "65af97aa15c37c23370828a7"
+  },
+  "metadata": {
+    "country_code": "SE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "82b141af443cb1b8",
+  "audience_size": 2569180,
+  "label": "Sweden",
+  "rich_label": "Country — Sweden",
+  "targeting_id": "44"
+},
+{
+  "_id": {
+    "$oid": "65af97aa15c37c23370828aa"
+  },
+  "metadata": {
+    "country_code": "CH",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "4e7c21fd2af027c6",
+  "audience_size": 2708990,
+  "label": "Switzerland",
+  "rich_label": "Country — Switzerland",
+  "targeting_id": "43"
+},
+{
+  "_id": {
+    "$oid": "65af97ac15c37c23370828ae"
+  },
+  "metadata": {
+    "country_code": "UA",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "084d0d0155787e9d",
+  "audience_size": 4500320,
+  "label": "Ukraine",
+  "rich_label": "Country — Ukraine",
+  "targeting_id": "259"
+},
+{
+  "_id": {
+    "$oid": "65af97ac15c37c23370828b1"
+  },
+  "metadata": {
+    "country_code": "AF",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "9ac7aa903ba29bd1",
+  "audience_size": 306620,
+  "label": "Afghanistan",
+  "rich_label": "Country — Afghanistan",
+  "targeting_id": "448"
+},
+{
+  "_id": {
+    "$oid": "65af97ad15c37c23370828b4"
+  },
+  "metadata": {
+    "country_code": "SA",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "08b2d74428e2ca88",
+  "audience_size": 16639870,
+  "label": "Kingdom of Saudi Arabia",
+  "rich_label": "Country — Kingdom of Saudi Arabia",
+  "targeting_id": "154"
+},
+{
+  "_id": {
+    "$oid": "65af97ad15c37c23370828b8"
+  },
+  "metadata": {
+    "country_code": "AM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "1315b8e69a2d1511",
+  "audience_size": 87710,
+  "label": "Armenia",
+  "rich_label": "Country — Armenia",
+  "targeting_id": "327"
+},
+{
+  "_id": {
+    "$oid": "65af97ae15c37c23370828bc"
+  },
+  "metadata": {
+    "country_code": "AZ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "efc23cd34689b068",
+  "audience_size": 252790,
+  "label": "Azerbaijan",
+  "rich_label": "Country — Azerbaijan",
+  "targeting_id": "457"
+},
+{
+  "_id": {
+    "$oid": "65af97af15c37c23370828bf"
+  },
+  "metadata": {
+    "country_code": "BD",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "9f4e63426a3f3da2",
+  "audience_size": 1671640,
+  "label": "Bangladesh",
+  "rich_label": "Country — Bangladesh",
+  "targeting_id": "261"
+},
+{
+  "_id": {
+    "$oid": "65af97af15c37c23370828c2"
+  },
+  "metadata": {
+    "country_code": "BH",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "e3e9c55876b99760",
+  "audience_size": 560270,
+  "label": "Bahrain",
+  "rich_label": "Country — Bahrain",
+  "targeting_id": "384"
+},
+{
+  "_id": {
+    "$oid": "65af97b015c37c23370828c6"
+  },
+  "metadata": {
+    "country_code": "BT",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "3a6b696db46e9e1d",
+  "audience_size": 17890,
+  "label": "Bhutan",
+  "rich_label": "Country — Bhutan",
+  "targeting_id": "439"
+},
+{
+  "_id": {
+    "$oid": "65af97b115c37c23370828c9"
+  },
+  "metadata": {
+    "country_code": "KH",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "df4a2798d032e321",
+  "audience_size": 539320,
+  "label": "Cambodia",
+  "rich_label": "Country — Cambodia",
+  "targeting_id": "423"
+},
+{
+  "_id": {
+    "$oid": "65af97b115c37c23370828cc"
+  },
+  "metadata": {
+    "country_code": "CN",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "4797714c95971ac1",
+  "audience_size": 9757700,
+  "label": "People's Republic of China",
+  "rich_label": "Country — People's Republic of China",
+  "targeting_id": "174"
+},
+{
+  "_id": {
+    "$oid": "65af97b215c37c23370828d0"
+  },
+  "metadata": {
+    "country_code": "CY",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "f0af1239cbebb474",
+  "audience_size": 329960,
+  "label": "Cyprus",
+  "rich_label": "Country — Cyprus",
+  "targeting_id": "427"
+},
+{
+  "_id": {
+    "$oid": "65af97b215c37c23370828d4"
+  },
+  "metadata": {
+    "country_code": "KR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "c00e5392b3fa46fb",
+  "audience_size": 10280120,
+  "label": "Republic of Korea",
+  "rich_label": "Country — Republic of Korea",
+  "targeting_id": "258"
+},
+{
+  "_id": {
+    "$oid": "65af97b315c37c23370828d7"
+  },
+  "metadata": {
+    "country_code": "AE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "3f63906fc8aa5a7d",
+  "audience_size": 3089650,
+  "label": "United Arab Emirates",
+  "rich_label": "Country — United Arab Emirates",
+  "targeting_id": "150"
+},
+{
+  "_id": {
+    "$oid": "65af97b415c37c23370828db"
+  },
+  "metadata": {
+    "country_code": "PH",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "fb151ef38fa2ac0d",
+  "audience_size": 10642570,
+  "label": "Republic of the Philippines",
+  "rich_label": "Country — Republic of the Philippines",
+  "targeting_id": "169"
+},
+{
+  "_id": {
+    "$oid": "65af97b415c37c23370828df"
+  },
+  "metadata": {
+    "country_code": "GE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "60fcb78e1f3a23dd",
+  "audience_size": 232770,
+  "label": "Georgia",
+  "rich_label": "Country — Georgia",
+  "targeting_id": "360"
+},
+{
+  "_id": {
+    "$oid": "65af97b415c37c23370828e1"
+  },
+  "metadata": {
+    "country_code": "GS",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "98c7a0e48eb6b42b",
+  "audience_size": 0,
+  "label": "South Georgia and the South Sandwich Islands",
+  "rich_label": "Country — South Georgia and the South Sandwich Islands",
+  "targeting_id": "411"
+},
+{
+  "_id": {
+    "$oid": "65af97b515c37c23370828e4"
+  },
+  "metadata": {
+    "country_code": "HK",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "35fd5bacecc4c6e5",
+  "audience_size": 7201380,
+  "label": "Hong Kong",
+  "rich_label": "Country — Hong Kong",
+  "targeting_id": "164"
+},
+{
+  "_id": {
+    "$oid": "65af97b515c37c23370828e7"
+  },
+  "metadata": {
+    "country_code": "IN",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "b850c1bfd38f30e0",
+  "audience_size": 25772160,
+  "label": "India",
+  "rich_label": "Country — India",
+  "targeting_id": "167"
+},
+{
+  "_id": {
+    "$oid": "65af97b515c37c23370828e9"
+  },
+  "metadata": {
+    "country_code": "IO",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "88f6c97979c5c22d",
+  "audience_size": 420,
+  "label": "British Indian Ocean Territory",
+  "rich_label": "Country — British Indian Ocean Territory",
+  "targeting_id": "324"
+},
+{
+  "_id": {
+    "$oid": "65af97b615c37c23370828ec"
+  },
+  "metadata": {
+    "country_code": "ID",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "ce7988d3a8b6f49f",
+  "audience_size": 24397320,
+  "label": "Indonesia",
+  "rich_label": "Country — Indonesia",
+  "targeting_id": "170"
+},
+{
+  "_id": {
+    "$oid": "65af97b615c37c23370828ef"
+  },
+  "metadata": {
+    "country_code": "IQ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "b62cd77425868341",
+  "audience_size": 2523440,
+  "label": "Iraq",
+  "rich_label": "Country — Iraq",
+  "targeting_id": "429"
+},
+{
+  "_id": {
+    "$oid": "65af97b715c37c23370828f3"
+  },
+  "metadata": {
+    "country_code": "IL",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2edb6e240797c549",
+  "audience_size": 2005680,
+  "label": "Israel",
+  "rich_label": "Country — Israel",
+  "targeting_id": "264"
+},
+{
+  "_id": {
+    "$oid": "65af97b815c37c23370828f6"
+  },
+  "metadata": {
+    "country_code": "JP",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "06ef846bfc783874",
+  "audience_size": 72515650,
+  "label": "Japan",
+  "rich_label": "Country — Japan",
+  "targeting_id": "35"
+},
+{
+  "_id": {
+    "$oid": "65af97b815c37c23370828fa"
+  },
+  "metadata": {
+    "country_code": "JO",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "fc6282dff859b848",
+  "audience_size": 1080420,
+  "label": "Hashemite Kingdom of Jordan",
+  "rich_label": "Country — Hashemite Kingdom of Jordan",
+  "targeting_id": "390"
+},
+{
+  "_id": {
+    "$oid": "65af97b915c37c23370828fd"
+  },
+  "metadata": {
+    "country_code": "KZ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "6d73a696edc5306f",
+  "audience_size": 316460,
+  "label": "Kazakhstan",
+  "rich_label": "Country — Kazakhstan",
+  "targeting_id": "362"
+},
+{
+  "_id": {
+    "$oid": "65af97b915c37c2337082900"
+  },
+  "metadata": {
+    "country_code": "KG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "56ac89b367a68a34",
+  "audience_size": 86310,
+  "label": "Kyrgyzstan",
+  "rich_label": "Country — Kyrgyzstan",
+  "targeting_id": "441"
+},
+{
+  "_id": {
+    "$oid": "65af97ba15c37c2337082903"
+  },
+  "metadata": {
+    "country_code": "KW",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d303522079ceb9a7",
+  "audience_size": 1671360,
+  "label": "Kuwait",
+  "rich_label": "Country — Kuwait",
+  "targeting_id": "153"
+},
+{
+  "_id": {
+    "$oid": "65af97bb15c37c233708290c"
+  },
+  "metadata": {
+    "country_code": "LB",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "583bd538eb3129d1",
+  "audience_size": 493320,
+  "label": "Lebanon",
+  "rich_label": "Country — Lebanon",
+  "targeting_id": "342"
+},
+{
+  "_id": {
+    "$oid": "65af97bc15c37c2337082917"
+  },
+  "metadata": {
+    "country_code": "MY",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "8633ee56a589f49c",
+  "audience_size": 5639540,
+  "label": "Malaysia",
+  "rich_label": "Country — Malaysia",
+  "targeting_id": "168"
+},
+{
+  "_id": {
+    "$oid": "65af97bd15c37c233708291b"
+  },
+  "metadata": {
+    "country_code": "MV",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2c614b2aca285e79",
+  "audience_size": 122180,
+  "label": "Maldives",
+  "rich_label": "Country — Maldives",
+  "targeting_id": "368"
+},
+{
+  "_id": {
+    "$oid": "65af97bd15c37c233708291e"
+  },
+  "metadata": {
+    "country_code": "MN",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "8bd61930ae4f642d",
+  "audience_size": 127490,
+  "label": "Mongolia",
+  "rich_label": "Country — Mongolia",
+  "targeting_id": "295"
+},
+{
+  "_id": {
+    "$oid": "65af97bf15c37c233708292a"
+  },
+  "metadata": {
+    "country_code": "NP",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "f1d3a53f8a3cc7e9",
+  "audience_size": 460470,
+  "label": "Nepal",
+  "rich_label": "Country — Nepal",
+  "targeting_id": "162"
+},
+{
+  "_id": {
+    "$oid": "65af97bf15c37c2337082930"
+  },
+  "metadata": {
+    "country_code": "OM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "ec1d87074d3793f0",
+  "audience_size": 1030400,
+  "label": "Oman",
+  "rich_label": "Country — Oman",
+  "targeting_id": "426"
+},
+{
+  "_id": {
+    "$oid": "65af97c015c37c233708293d"
+  },
+  "metadata": {
+    "country_code": "PK",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "64a07f675a8a699a",
+  "audience_size": 4445650,
+  "label": "Pakistan",
+  "rich_label": "Country — Pakistan",
+  "targeting_id": "260"
+},
+{
+  "_id": {
+    "$oid": "65af97c115c37c2337082945"
+  },
+  "metadata": {
+    "country_code": "QA",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "a54c21f6aedb2967",
+  "audience_size": 792480,
+  "label": "Qatar",
+  "rich_label": "Country — Qatar",
+  "targeting_id": "389"
+},
+{
+  "_id": {
+    "$oid": "65af97c215c37c2337082954"
+  },
+  "metadata": {
+    "country_code": "SG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2509b9adc1fedfd2",
+  "audience_size": 5810730,
+  "label": "Singapore",
+  "rich_label": "Country — Singapore",
+  "targeting_id": "211"
+},
+{
+  "_id": {
+    "$oid": "65af97c215c37c233708295a"
+  },
+  "metadata": {
+    "country_code": "LK",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "173c2bb9d42baaa5",
+  "audience_size": 305370,
+  "label": "Sri Lanka",
+  "rich_label": "Country — Sri Lanka",
+  "targeting_id": "350"
+},
+{
+  "_id": {
+    "$oid": "65af97c315c37c233708295d"
+  },
+  "metadata": {
+    "country_code": "TH",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "974c290e10850494",
+  "audience_size": 14507270,
+  "label": "Thailand",
+  "rich_label": "Country — Thailand",
+  "targeting_id": "284"
+},
+{
+  "_id": {
+    "$oid": "65af97c315c37c2337082963"
+  },
+  "metadata": {
+    "country_code": "TW",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "204a435ce97d5de4",
+  "audience_size": 4583590,
+  "label": "Taiwan",
+  "rich_label": "Country — Taiwan",
+  "targeting_id": "210"
+},
+{
+  "_id": {
+    "$oid": "65af97c415c37c2337082969"
+  },
+  "metadata": {
+    "country_code": "TJ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "66fd08f1746d8702",
+  "audience_size": 17990,
+  "label": "Tajikistan",
+  "rich_label": "Country — Tajikistan",
+  "targeting_id": "442"
+},
+{
+  "_id": {
+    "$oid": "65af97c515c37c233708296f"
+  },
+  "metadata": {
+    "country_code": "TL",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "b83e1dfa68cc396c",
+  "audience_size": 9220,
+  "label": "East Timor",
+  "rich_label": "Country — East Timor",
+  "targeting_id": "338"
+},
+{
+  "_id": {
+    "$oid": "65af97c515c37c2337082977"
+  },
+  "metadata": {
+    "country_code": "TM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "3d77e0dd1c4ed51c",
+  "audience_size": 3980,
+  "label": "Turkmenistan",
+  "rich_label": "Country — Turkmenistan",
+  "targeting_id": "375"
+},
+{
+  "_id": {
+    "$oid": "65af97c615c37c2337082984"
+  },
+  "metadata": {
+    "country_code": "TR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "682c5a667856ef42",
+  "audience_size": 20423410,
+  "label": "Turkey",
+  "rich_label": "Country — Turkey",
+  "targeting_id": "103"
+},
+{
+  "_id": {
+    "$oid": "65af97c715c37c233708298b"
+  },
+  "metadata": {
+    "country_code": "UZ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "8f3fa3e2dedc1db5",
+  "audience_size": 163380,
+  "label": "Uzbekistan",
+  "rich_label": "Country — Uzbekistan",
+  "targeting_id": "446"
+},
+{
+  "_id": {
+    "$oid": "65af97c815c37c2337082997"
+  },
+  "metadata": {
+    "country_code": "YE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "e5ac80d8b565c01f",
+  "audience_size": 1535960,
+  "label": "Yemen",
+  "rich_label": "Country — Yemen",
+  "targeting_id": "434"
+},
+{
+  "_id": {
+    "$oid": "65af97c815c37c23370829a5"
+  },
+  "metadata": {
+    "country_code": "AR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "4d3b316fe2e52b29",
+  "audience_size": 8371530,
+  "label": "Argentina",
+  "rich_label": "Country — Argentina",
+  "targeting_id": "143"
+},
+{
+  "_id": {
+    "$oid": "65af97c915c37c23370829ab"
+  },
+  "metadata": {
+    "country_code": "BO",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "c4320f726d222937",
+  "audience_size": 560250,
+  "label": "Bolivia",
+  "rich_label": "Country — Bolivia",
+  "targeting_id": "275"
+},
+{
+  "_id": {
+    "$oid": "65af97ca15c37c23370829b1"
+  },
+  "metadata": {
+    "country_code": "BR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "1b107df3ccc0aaa1",
+  "audience_size": 21866100,
+  "label": "Brazil",
+  "rich_label": "Country — Brazil",
+  "targeting_id": "41"
+},
+{
+  "_id": {
+    "$oid": "65af97ca15c37c23370829b7"
+  },
+  "metadata": {
+    "country_code": "CL",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "47a3cf27863714de",
+  "audience_size": 4131060,
+  "label": "Chile",
+  "rich_label": "Country — Chile",
+  "targeting_id": "102"
+},
+{
+  "_id": {
+    "$oid": "65af97cb15c37c23370829bb"
+  },
+  "metadata": {
+    "country_code": "CO",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "0639360bd49a15e3",
+  "audience_size": 5572320,
+  "label": "Colombia",
+  "rich_label": "Country — Colombia",
+  "targeting_id": "142"
+},
+{
+  "_id": {
+    "$oid": "65af97cc15c37c23370829c2"
+  },
+  "metadata": {
+    "country_code": "EC",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "4e43cac8250a8b20",
+  "audience_size": 1909780,
+  "label": "Ecuador",
+  "rich_label": "Country — Ecuador",
+  "targeting_id": "280"
+},
+{
+  "_id": {
+    "$oid": "65af97cc15c37c23370829c8"
+  },
+  "metadata": {
+    "country_code": "GF",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "991b4344edc2d520",
+  "audience_size": 22870,
+  "label": "French Guiana",
+  "rich_label": "Country — French Guiana",
+  "targeting_id": "276"
+},
+{
+  "_id": {
+    "$oid": "65af97cd15c37c23370829ce"
+  },
+  "metadata": {
+    "country_code": "GY",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "23184b2af9649efa",
+  "audience_size": 43360,
+  "label": "Guyana",
+  "rich_label": "Country — Guyana",
+  "targeting_id": "278"
+},
+{
+  "_id": {
+    "$oid": "65af97ce15c37c23370829d4"
+  },
+  "metadata": {
+    "country_code": "FK",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "5fe7735f51fb69d9",
+  "audience_size": 1330,
+  "label": "Falkland Islands (Malvinas)",
+  "rich_label": "Country — Falkland Islands (Malvinas)",
+  "targeting_id": "279"
+},
+{
+  "_id": {
+    "$oid": "65af97ce15c37c23370829da"
+  },
+  "metadata": {
+    "country_code": "PY",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "6cf2fd60a82329fc",
+  "audience_size": 688540,
+  "label": "Paraguay",
+  "rich_label": "Country — Paraguay",
+  "targeting_id": "161"
+},
+{
+  "_id": {
+    "$oid": "65af97cf15c37c23370829e2"
+  },
+  "metadata": {
+    "country_code": "PE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2dfa9ecb0179a4e4",
+  "audience_size": 2507080,
+  "label": "Peru",
+  "rich_label": "Country — Peru",
+  "targeting_id": "98"
+},
+{
+  "_id": {
+    "$oid": "65af97d015c37c23370829e9"
+  },
+  "metadata": {
+    "country_code": "SR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "3afcd8fd83f599e3",
+  "audience_size": 27810,
+  "label": "Suriname",
+  "rich_label": "Country — Suriname",
+  "targeting_id": "281"
+},
+{
+  "_id": {
+    "$oid": "65af97d015c37c23370829ef"
+  },
+  "metadata": {
+    "country_code": "UY",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d0f5be1262dee9aa",
+  "audience_size": 703820,
+  "label": "Uruguay",
+  "rich_label": "Country — Uruguay",
+  "targeting_id": "148"
+},
+{
+  "_id": {
+    "$oid": "65af97d115c37c23370829f6"
+  },
+  "metadata": {
+    "country_code": "VE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "043383f8b2b79918",
+  "audience_size": 2279870,
+  "label": "Venezuela",
+  "rich_label": "Country — Venezuela",
+  "targeting_id": "141"
+},
+{
+  "_id": {
+    "$oid": "65af97d115c37c23370829fc"
+  },
+  "metadata": {
+    "country_code": "BZ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "26bbb44363843596",
+  "audience_size": 220430,
+  "label": "Belize",
+  "rich_label": "Country — Belize",
+  "targeting_id": "383"
+},
+{
+  "_id": {
+    "$oid": "65af97d215c37c2337082a04"
+  },
+  "metadata": {
+    "country_code": "CR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "e44e7dc5a2e1c3f1",
+  "audience_size": 661210,
+  "label": "Costa Rica",
+  "rich_label": "Country — Costa Rica",
+  "targeting_id": "104"
+},
+{
+  "_id": {
+    "$oid": "65af97d315c37c2337082a09"
+  },
+  "metadata": {
+    "country_code": "SV",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "43bf7210cd175772",
+  "audience_size": 748940,
+  "label": "El Salvador",
+  "rich_label": "Country — El Salvador",
+  "targeting_id": "283"
+},
+{
+  "_id": {
+    "$oid": "65af97d315c37c2337082a0f"
+  },
+  "metadata": {
+    "country_code": "GT",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "13d479b108707983",
+  "audience_size": 953740,
+  "label": "Guatemala",
+  "rich_label": "Country — Guatemala",
+  "targeting_id": "282"
+},
+{
+  "_id": {
+    "$oid": "65af97d415c37c2337082a15"
+  },
+  "metadata": {
+    "country_code": "HN",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d862adecd71aa2a2",
+  "audience_size": 646000,
+  "label": "Honduras",
+  "rich_label": "Country — Honduras",
+  "targeting_id": "156"
+},
+{
+  "_id": {
+    "$oid": "65af97d515c37c2337082a18"
+  },
+  "metadata": {
+    "country_code": "NI",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d2a0bb4acbd6b824",
+  "audience_size": 258040,
+  "label": "Nicaragua",
+  "rich_label": "Country — Nicaragua",
+  "targeting_id": "277"
+},
+{
+  "_id": {
+    "$oid": "65af97d515c37c2337082a1f"
+  },
+  "metadata": {
+    "country_code": "PA",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "9d8ae4b0fac2036a",
+  "audience_size": 637820,
+  "label": "Panama",
+  "rich_label": "Country — Panama",
+  "targeting_id": "101"
+},
+{
+  "_id": {
+    "$oid": "65af97d615c37c2337082a26"
+  },
+  "metadata": {
+    "country_code": "AG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "e0f46cd26fe3d713",
+  "audience_size": 44820,
+  "label": "Antigua and Barbuda",
+  "rich_label": "Country — Antigua and Barbuda",
+  "targeting_id": "406"
+},
+{
+  "_id": {
+    "$oid": "65af97d715c37c2337082a2c"
+  },
+  "metadata": {
+    "country_code": "AW",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "fa07565662daf560",
+  "audience_size": 35420,
+  "label": "Aruba",
+  "rich_label": "Country — Aruba",
+  "targeting_id": "149"
+},
+{
+  "_id": {
+    "$oid": "65af97d715c37c2337082a34"
+  },
+  "metadata": {
+    "country_code": "BB",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "80f128c34d2549c6",
+  "audience_size": 77970,
+  "label": "Barbados",
+  "rich_label": "Country — Barbados",
+  "targeting_id": "273"
+},
+{
+  "_id": {
+    "$oid": "65af97d815c37c2337082a38"
+  },
+  "metadata": {
+    "country_code": "VG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "7fe44a4ec805e4e2",
+  "audience_size": 33210,
+  "label": "British Virgin Islands",
+  "rich_label": "Country — British Virgin Islands",
+  "targeting_id": "157"
+},
+{
+  "_id": {
+    "$oid": "65af97d815c37c2337082a3a"
+  },
+  "metadata": {
+    "country_code": "VI",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "a88342b3900c93d6",
+  "audience_size": 25470,
+  "label": "Virgin Islands, U.S.",
+  "rich_label": "Country — Virgin Islands, U.S.",
+  "targeting_id": "159"
+},
+{
+  "_id": {
+    "$oid": "65af97d915c37c2337082a40"
+  },
+  "metadata": {
+    "country_code": "KY",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "cc896d5380524db4",
+  "audience_size": 27230,
+  "label": "Cayman Islands",
+  "rich_label": "Country — Cayman Islands",
+  "targeting_id": "147"
+},
+{
+  "_id": {
+    "$oid": "65af97d915c37c2337082a48"
+  },
+  "metadata": {
+    "country_code": "CW",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "b0b7e818ce3fec3f",
+  "audience_size": 27830,
+  "label": "Curaçao",
+  "rich_label": "Country — Curaçao",
+  "targeting_id": "408"
+},
+{
+  "_id": {
+    "$oid": "65af97da15c37c2337082a4f"
+  },
+  "metadata": {
+    "country_code": "DO",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "695f560eb8922977",
+  "audience_size": 826260,
+  "label": "Dominican Republic",
+  "rich_label": "Country — Dominican Republic",
+  "targeting_id": "100"
+},
+{
+  "_id": {
+    "$oid": "65af97da15c37c2337082a51"
+  },
+  "metadata": {
+    "country_code": "DM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "937d9ebcc1f8365b",
+  "audience_size": 13430,
+  "label": "Dominica",
+  "rich_label": "Country — Dominica",
+  "targeting_id": "387"
+},
+{
+  "_id": {
+    "$oid": "65af97db15c37c2337082a5d"
+  },
+  "metadata": {
+    "country_code": "GD",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "ba1b68ac534ec439",
+  "audience_size": 16940,
+  "label": "Grenada",
+  "rich_label": "Country — Grenada",
+  "targeting_id": "450"
+},
+{
+  "_id": {
+    "$oid": "65af97dc15c37c2337082a65"
+  },
+  "metadata": {
+    "country_code": "GP",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "4e9baf84e2232342",
+  "audience_size": 57940,
+  "label": "Guadeloupe",
+  "rich_label": "Country — Guadeloupe",
+  "targeting_id": "367"
+},
+{
+  "_id": {
+    "$oid": "65af97dc15c37c2337082a6c"
+  },
+  "metadata": {
+    "country_code": "HT",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d3e226ca18cd4ae8",
+  "audience_size": 132610,
+  "label": "Haiti",
+  "rich_label": "Country — Haiti",
+  "targeting_id": "294"
+},
+{
+  "_id": {
+    "$oid": "65af97dd15c37c2337082a72"
+  },
+  "metadata": {
+    "country_code": "JM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d66ca907ceb62690",
+  "audience_size": 384250,
+  "label": "Jamaica",
+  "rich_label": "Country — Jamaica",
+  "targeting_id": "97"
+},
+{
+  "_id": {
+    "$oid": "65af97de15c37c2337082a78"
+  },
+  "metadata": {
+    "country_code": "MQ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "15bddd8209796b5e",
+  "audience_size": 65240,
+  "label": "Martinique",
+  "rich_label": "Country — Martinique",
+  "targeting_id": "414"
+},
+{
+  "_id": {
+    "$oid": "65af97de15c37c2337082a7e"
+  },
+  "metadata": {
+    "country_code": "MS",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "f59f40c0fd8a944a",
+  "audience_size": 990,
+  "label": "Montserrat",
+  "rich_label": "Country — Montserrat",
+  "targeting_id": "364"
+},
+{
+  "_id": {
+    "$oid": "65af97e015c37c2337082a87"
+  },
+  "metadata": {
+    "country_code": "KN",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "ce1899c5b27d0caa",
+  "audience_size": 22590,
+  "label": "Saint Kitts and Nevis",
+  "rich_label": "Country — Saint Kitts and Nevis",
+  "targeting_id": "407"
+},
+{
+  "_id": {
+    "$oid": "65af97e115c37c2337082a92"
+  },
+  "metadata": {
+    "country_code": "VC",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "bb94af3e1fdbeb7f",
+  "audience_size": 14730,
+  "label": "Saint Vincent and the Grenadines",
+  "rich_label": "Country — Saint Vincent and the Grenadines",
+  "targeting_id": "402"
+},
+{
+  "_id": {
+    "$oid": "65af97e215c37c2337082a9a"
+  },
+  "metadata": {
+    "country_code": "LC",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "015fd2ff54877b34",
+  "audience_size": 26100,
+  "label": "Saint Lucia",
+  "rich_label": "Country — Saint Lucia",
+  "targeting_id": "151"
+},
+{
+  "_id": {
+    "$oid": "65af97e215c37c2337082aa0"
+  },
+  "metadata": {
+    "country_code": "BS",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "b631437cf2f16804",
+  "audience_size": 121100,
+  "label": "Bahamas",
+  "rich_label": "Country — Bahamas",
+  "targeting_id": "96"
+},
+{
+  "_id": {
+    "$oid": "65af97e315c37c2337082aa5"
+  },
+  "metadata": {
+    "country_code": "TT",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "47bf5243296fa7e3",
+  "audience_size": 177810,
+  "label": "Trinidad and Tobago",
+  "rich_label": "Country — Trinidad and Tobago",
+  "targeting_id": "274"
+},
+{
+  "_id": {
+    "$oid": "65af97e415c37c2337082aac"
+  },
+  "metadata": {
+    "country_code": "TC",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "06cd7798172f191e",
+  "audience_size": 17320,
+  "label": "Turks and Caicos Islands",
+  "rich_label": "Country — Turks and Caicos Islands",
+  "targeting_id": "332"
+},
+{
+  "_id": {
+    "$oid": "65af97e515c37c2337082ab9"
+  },
+  "metadata": {
+    "country_code": "AS",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "17f8f93731f3b9da",
+  "audience_size": 2210,
+  "label": "American Samoa",
+  "rich_label": "Country — American Samoa",
+  "targeting_id": "321"
+},
+{
+  "_id": {
+    "$oid": "65af97e615c37c2337082ac1"
+  },
+  "metadata": {
+    "country_code": "AU",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "3f14ce28dc7c4566",
+  "audience_size": 6023940,
+  "label": "Australia",
+  "rich_label": "Country — Australia",
+  "targeting_id": "20"
+},
+{
+  "_id": {
+    "$oid": "65af97e615c37c2337082ac7"
+  },
+  "metadata": {
+    "country_code": "CK",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "21862bdb3b42ea33",
+  "audience_size": 2010,
+  "label": "Cook Islands",
+  "rich_label": "Country — Cook Islands",
+  "targeting_id": "388"
+},
+{
+  "_id": {
+    "$oid": "65af97e715c37c2337082aca"
+  },
+  "metadata": {
+    "country_code": "FM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d1531c51dd2bc3a4",
+  "audience_size": 1910,
+  "label": "Federated States of Micronesia",
+  "rich_label": "Country — Federated States of Micronesia",
+  "targeting_id": "347"
+},
+{
+  "_id": {
+    "$oid": "65af97e815c37c2337082ad0"
+  },
+  "metadata": {
+    "country_code": "FJ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2eca8f364790ebb5",
+  "audience_size": 31530,
+  "label": "Fiji",
+  "rich_label": "Country — Fiji",
+  "targeting_id": "409"
+},
+{
+  "_id": {
+    "$oid": "65af97e815c37c2337082ad4"
+  },
+  "metadata": {
+    "country_code": "PF",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "ea5eca163987d547",
+  "audience_size": 14730,
+  "label": "French Polynesia",
+  "rich_label": "Country — French Polynesia",
+  "targeting_id": "455"
+},
+{
+  "_id": {
+    "$oid": "65af97ea15c37c2337082ae0"
+  },
+  "metadata": {
+    "country_code": "KI",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "f77ef3a8c01d1bc0",
+  "audience_size": 490,
+  "label": "Kiribati",
+  "rich_label": "Country — Kiribati",
+  "targeting_id": "386"
+},
+{
+  "_id": {
+    "$oid": "65af97ea15c37c2337082ae6"
+  },
+  "metadata": {
+    "country_code": "MH",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "e1ab84996b3f6609",
+  "audience_size": 1200,
+  "label": "Marshall Islands",
+  "rich_label": "Country — Marshall Islands",
+  "targeting_id": "424"
+},
+{
+  "_id": {
+    "$oid": "65af97eb15c37c2337082aec"
+  },
+  "metadata": {
+    "country_code": "NR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "68b11f0b17d9dd5a",
+  "audience_size": 380,
+  "label": "Nauru",
+  "rich_label": "Country — Nauru",
+  "targeting_id": "421"
+},
+{
+  "_id": {
+    "$oid": "65af97eb15c37c2337082af0"
+  },
+  "metadata": {
+    "country_code": "NC",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2f4cc128bb4fb146",
+  "audience_size": 16570,
+  "label": "New Caledonia",
+  "rich_label": "Country — New Caledonia",
+  "targeting_id": "413"
+},
+{
+  "_id": {
+    "$oid": "65af97ec15c37c2337082af6"
+  },
+  "metadata": {
+    "country_code": "NZ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "0b039ce18ddf1cb9",
+  "audience_size": 773250,
+  "label": "New Zealand",
+  "rich_label": "Country — New Zealand",
+  "targeting_id": "26"
+},
+{
+  "_id": {
+    "$oid": "65af97ec15c37c2337082afc"
+  },
+  "metadata": {
+    "country_code": "NU",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "0560f64d7b342583",
+  "audience_size": 250,
+  "label": "Niue",
+  "rich_label": "Country — Niue",
+  "targeting_id": "400"
+},
+{
+  "_id": {
+    "$oid": "65af97ed15c37c2337082b04"
+  },
+  "metadata": {
+    "country_code": "NF",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "8d9c9c8fd0993ecf",
+  "audience_size": 290,
+  "label": "Norfolk Islands",
+  "rich_label": "Country — Norfolk Islands",
+  "targeting_id": "373"
+},
+{
+  "_id": {
+    "$oid": "65af97ee15c37c2337082b09"
+  },
+  "metadata": {
+    "country_code": "MP",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "f342cd7d716c8acb",
+  "audience_size": 5630,
+  "label": "Northern Mariana Islands",
+  "rich_label": "Country — Northern Mariana Islands",
+  "targeting_id": "417"
+},
+{
+  "_id": {
+    "$oid": "65af97ee15c37c2337082b10"
+  },
+  "metadata": {
+    "country_code": "PW",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "6afef0dd95bd25ca",
+  "audience_size": 3140,
+  "label": "Palau",
+  "rich_label": "Country — Palau",
+  "targeting_id": "356"
+},
+{
+  "_id": {
+    "$oid": "65af97ef15c37c2337082b16"
+  },
+  "metadata": {
+    "country_code": "PG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "85cb260e850b80e2",
+  "audience_size": 14240,
+  "label": "Papua New Guinea",
+  "rich_label": "Country — Papua New Guinea",
+  "targeting_id": "410"
+},
+{
+  "_id": {
+    "$oid": "65af97f015c37c2337082b1b"
+  },
+  "metadata": {
+    "country_code": "PN",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "f8bdf6c2726e5cd4",
+  "audience_size": 10,
+  "label": "Pitcairn Islands",
+  "rich_label": "Country — Pitcairn Islands",
+  "targeting_id": "372"
+},
+{
+  "_id": {
+    "$oid": "65af97f015c37c2337082b22"
+  },
+  "metadata": {
+    "country_code": "WS",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "ee293e7b8b7d15d0",
+  "audience_size": 5000,
+  "label": "Samoa",
+  "rich_label": "Country — Samoa",
+  "targeting_id": "456"
+},
+{
+  "_id": {
+    "$oid": "65af97f115c37c2337082b28"
+  },
+  "metadata": {
+    "country_code": "SB",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "c2cc3aca039a8280",
+  "audience_size": 3030,
+  "label": "Solomon Islands",
+  "rich_label": "Country — Solomon Islands",
+  "targeting_id": "333"
+},
+{
+  "_id": {
+    "$oid": "65af97f215c37c2337082b2e"
+  },
+  "metadata": {
+    "country_code": "TK",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "64075bd521936443",
+  "audience_size": 10,
+  "label": "Tokelau",
+  "rich_label": "Country — Tokelau",
+  "targeting_id": "377"
+},
+{
+  "_id": {
+    "$oid": "65af97f215c37c2337082b34"
+  },
+  "metadata": {
+    "country_code": "TO",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "aceeec48dbb9ede8",
+  "audience_size": 1920,
+  "label": "Tonga",
+  "rich_label": "Country — Tonga",
+  "targeting_id": "349"
+},
+{
+  "_id": {
+    "$oid": "65af97f315c37c2337082b3b"
+  },
+  "metadata": {
+    "country_code": "TV",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "6286b0ee1f351799",
+  "audience_size": 210,
+  "label": "Tuvalu",
+  "rich_label": "Country — Tuvalu",
+  "targeting_id": "337"
+},
+{
+  "_id": {
+    "$oid": "65af97f415c37c2337082b42"
+  },
+  "metadata": {
+    "country_code": "VU",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "8cd83cbcaf4f8620",
+  "audience_size": 2950,
+  "label": "Vanuatu",
+  "rich_label": "Country — Vanuatu",
+  "targeting_id": "420"
+},
+{
+  "_id": {
+    "$oid": "65af97f415c37c2337082b45"
+  },
+  "metadata": {
+    "country_code": "WF",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "e49f634ed2e1554e",
+  "audience_size": 170,
+  "label": "Wallis and Futuna",
+  "rich_label": "Country — Wallis and Futuna",
+  "targeting_id": "403"
+},
+{
+  "_id": {
+    "$oid": "65af97f515c37c2337082b4b"
+  },
+  "metadata": {
+    "country_code": "AO",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "e771af67815e87e8",
+  "audience_size": 91410,
+  "label": "Angola",
+  "rich_label": "Country — Angola",
+  "targeting_id": "392"
+},
+{
+  "_id": {
+    "$oid": "65af97f515c37c2337082b4f"
+  },
+  "metadata": {
+    "country_code": "DZ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d73762e172ac7c37",
+  "audience_size": 1225760,
+  "label": "Algeria",
+  "rich_label": "Country — Algeria",
+  "targeting_id": "331"
+},
+{
+  "_id": {
+    "$oid": "65af97f615c37c2337082b55"
+  },
+  "metadata": {
+    "country_code": "BJ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "ee84ba0d0454651a",
+  "audience_size": 80070,
+  "label": "Benin",
+  "rich_label": "Country — Benin",
+  "targeting_id": "369"
+},
+{
+  "_id": {
+    "$oid": "65af97f715c37c2337082b59"
+  },
+  "metadata": {
+    "country_code": "BW",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "8a927a7056322151",
+  "audience_size": 96830,
+  "label": "Botswana",
+  "rich_label": "Country — Botswana",
+  "targeting_id": "422"
+},
+{
+  "_id": {
+    "$oid": "65af97f715c37c2337082b61"
+  },
+  "metadata": {
+    "country_code": "BF",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "04ba472d56551ba1",
+  "audience_size": 72230,
+  "label": "Burkina Faso",
+  "rich_label": "Country — Burkina Faso",
+  "targeting_id": "357"
+},
+{
+  "_id": {
+    "$oid": "65af97f815c37c2337082b68"
+  },
+  "metadata": {
+    "country_code": "BI",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "6286fa85f57c2aad",
+  "audience_size": 43110,
+  "label": "Burundi",
+  "rich_label": "Country — Burundi",
+  "targeting_id": "366"
+},
+{
+  "_id": {
+    "$oid": "65af97f915c37c2337082b73"
+  },
+  "metadata": {
+    "country_code": "CM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "97cabb75f5a4787a",
+  "audience_size": 181150,
+  "label": "Cameroon",
+  "rich_label": "Country — Cameroon",
+  "targeting_id": "425"
+},
+{
+  "_id": {
+    "$oid": "65af97fa15c37c2337082b7b"
+  },
+  "metadata": {
+    "country_code": "TD",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "9d86cf820e7f9341",
+  "audience_size": 30570,
+  "label": "Chad",
+  "rich_label": "Country — Chad",
+  "targeting_id": "449"
+},
+{
+  "_id": {
+    "$oid": "65af97fb15c37c2337082b85"
+  },
+  "metadata": {
+    "country_code": "EG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "c659cb4912229666",
+  "audience_size": 5772860,
+  "label": "Egypt",
+  "rich_label": "Country — Egypt",
+  "targeting_id": "291"
+},
+{
+  "_id": {
+    "$oid": "65af97fc15c37c2337082b89"
+  },
+  "metadata": {
+    "country_code": "ER",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "774ccf26b8961ffa",
+  "audience_size": 1160,
+  "label": "Eritrea",
+  "rich_label": "Country — Eritrea",
+  "targeting_id": "419"
+},
+{
+  "_id": {
+    "$oid": "65af97fc15c37c2337082b8f"
+  },
+  "metadata": {
+    "country_code": "ET",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "c3b85cf1d8b226f2",
+  "audience_size": 308560,
+  "label": "Ethiopia",
+  "rich_label": "Country — Ethiopia",
+  "targeting_id": "361"
+},
+{
+  "_id": {
+    "$oid": "65af97fd15c37c2337082b96"
+  },
+  "metadata": {
+    "country_code": "GA",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "1a94ec7b94ebb007",
+  "audience_size": 29080,
+  "label": "Gabon",
+  "rich_label": "Country — Gabon",
+  "targeting_id": "363"
+},
+{
+  "_id": {
+    "$oid": "65af97fe15c37c2337082b9b"
+  },
+  "metadata": {
+    "country_code": "GM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "59f7c708c61d85dc",
+  "audience_size": 35240,
+  "label": "Gambia",
+  "rich_label": "Country — Gambia",
+  "targeting_id": "343"
+},
+{
+  "_id": {
+    "$oid": "65af97fe15c37c2337082ba0"
+  },
+  "metadata": {
+    "country_code": "GH",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "c08f5915ceeeb806",
+  "audience_size": 1154930,
+  "label": "Ghana",
+  "rich_label": "Country — Ghana",
+  "targeting_id": "430"
+},
+{
+  "_id": {
+    "$oid": "65af97ff15c37c2337082ba6"
+  },
+  "metadata": {
+    "country_code": "GN",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2d3edd5369d26d84",
+  "audience_size": 45030,
+  "label": "Guinea",
+  "rich_label": "Country — Guinea",
+  "targeting_id": "345"
+},
+{
+  "_id": {
+    "$oid": "65af97ff15c37c2337082ba9"
+  },
+  "metadata": {
+    "country_code": "GQ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "648e07ff5133ca21",
+  "audience_size": 9070,
+  "label": "Equatorial Guinea",
+  "rich_label": "Country — Equatorial Guinea",
+  "targeting_id": "399"
+},
+{
+  "_id": {
+    "$oid": "65af97ff15c37c2337082bab"
+  },
+  "metadata": {
+    "country_code": "GW",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "9ba85a4b41cff9a3",
+  "audience_size": 4130,
+  "label": "Guinea-Bissau",
+  "rich_label": "Country — Guinea-Bissau",
+  "targeting_id": "381"
+},
+{
+  "_id": {
+    "$oid": "65af980115c37c2337082bbe"
+  },
+  "metadata": {
+    "country_code": "KM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "133b43ff55d804f4",
+  "audience_size": 3650,
+  "label": "Comoros",
+  "rich_label": "Country — Comoros",
+  "targeting_id": "371"
+},
+{
+  "_id": {
+    "$oid": "65af980215c37c2337082bc5"
+  },
+  "metadata": {
+    "country_code": "KE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "17ad6a68301cd28b",
+  "audience_size": 1851120,
+  "label": "Kenya",
+  "rich_label": "Country — Kenya",
+  "targeting_id": "322"
+},
+{
+  "_id": {
+    "$oid": "65af980215c37c2337082bcb"
+  },
+  "metadata": {
+    "country_code": "LS",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "1273b0ca0f5d5ce5",
+  "audience_size": 24980,
+  "label": "Lesotho",
+  "rich_label": "Country — Lesotho",
+  "targeting_id": "415"
+},
+{
+  "_id": {
+    "$oid": "65af980315c37c2337082bd2"
+  },
+  "metadata": {
+    "country_code": "LR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "8d2ea4d337845954",
+  "audience_size": 19980,
+  "label": "Liberia",
+  "rich_label": "Country — Liberia",
+  "targeting_id": "395"
+},
+{
+  "_id": {
+    "$oid": "65af980315c37c2337082bd6"
+  },
+  "metadata": {
+    "country_code": "LY",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "70637f5c6cb00ec9",
+  "audience_size": 543150,
+  "label": "Libya",
+  "rich_label": "Country — Libya",
+  "targeting_id": "330"
+},
+{
+  "_id": {
+    "$oid": "65af980415c37c2337082bde"
+  },
+  "metadata": {
+    "country_code": "MG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2b1888a4da352846",
+  "audience_size": 32610,
+  "label": "Madagascar",
+  "rich_label": "Country — Madagascar",
+  "targeting_id": "379"
+},
+{
+  "_id": {
+    "$oid": "65af980415c37c2337082be4"
+  },
+  "metadata": {
+    "country_code": "MW",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "a0583a9994e6bf1b",
+  "audience_size": 73540,
+  "label": "Malawi",
+  "rich_label": "Country — Malawi",
+  "targeting_id": "394"
+},
+{
+  "_id": {
+    "$oid": "65af980515c37c2337082bea"
+  },
+  "metadata": {
+    "country_code": "ML",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "44d34054431f2b36",
+  "audience_size": 77460,
+  "label": "Mali",
+  "rich_label": "Country — Mali",
+  "targeting_id": "346"
+},
+{
+  "_id": {
+    "$oid": "65af980615c37c2337082bed"
+  },
+  "metadata": {
+    "country_code": "MA",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "b5fc43481ea8b89a",
+  "audience_size": 1166670,
+  "label": "Morocco",
+  "rich_label": "Country — Morocco",
+  "targeting_id": "270"
+},
+{
+  "_id": {
+    "$oid": "65af980715c37c2337082bf3"
+  },
+  "metadata": {
+    "country_code": "MU",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "ee9d992aa12a6fa0",
+  "audience_size": 101130,
+  "label": "Republic of Mauritius",
+  "rich_label": "Country — Republic of Mauritius",
+  "targeting_id": "344"
+},
+{
+  "_id": {
+    "$oid": "65af980715c37c2337082bfa"
+  },
+  "metadata": {
+    "country_code": "MR",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "32c0b41931e32f4d",
+  "audience_size": 54340,
+  "label": "Mauritania",
+  "rich_label": "Country — Mauritania",
+  "targeting_id": "358"
+},
+{
+  "_id": {
+    "$oid": "65af980815c37c2337082c01"
+  },
+  "metadata": {
+    "country_code": "YT",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2e1db4ccd414851e",
+  "audience_size": 11310,
+  "label": "Mayotte",
+  "rich_label": "Country — Mayotte",
+  "targeting_id": "376"
+},
+{
+  "_id": {
+    "$oid": "65af980915c37c2337082c07"
+  },
+  "metadata": {
+    "country_code": "MZ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "b64dd3d6de94f13d",
+  "audience_size": 67890,
+  "label": "Republic of Mozambique",
+  "rich_label": "Country — Republic of Mozambique",
+  "targeting_id": "378"
+},
+{
+  "_id": {
+    "$oid": "65af980915c37c2337082c0d"
+  },
+  "metadata": {
+    "country_code": "NA",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "3df4e3a5f8fa480a",
+  "audience_size": 86680,
+  "label": "Namibia",
+  "rich_label": "Country — Namibia",
+  "targeting_id": "385"
+},
+{
+  "_id": {
+    "$oid": "65af980a15c37c2337082c13"
+  },
+  "metadata": {
+    "country_code": "NG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "59b27337f38d658b",
+  "audience_size": 5677290,
+  "label": "Nigeria",
+  "rich_label": "Country — Nigeria",
+  "targeting_id": "393"
+},
+{
+  "_id": {
+    "$oid": "65af980a15c37c2337082c15"
+  },
+  "metadata": {
+    "country_code": "NE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d5fbf8130a41420c",
+  "audience_size": 31590,
+  "label": "Niger",
+  "rich_label": "Country — Niger",
+  "targeting_id": "339"
+},
+{
+  "_id": {
+    "$oid": "65af980b15c37c2337082c20"
+  },
+  "metadata": {
+    "country_code": "CF",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "12ff487cb5a05ff7",
+  "audience_size": 5000,
+  "label": "Central African Republic",
+  "rich_label": "Country — Central African Republic",
+  "targeting_id": "398"
+},
+{
+  "_id": {
+    "$oid": "65af980c15c37c2337082c26"
+  },
+  "metadata": {
+    "country_code": "CD",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "17cd9eb8e2c0152c",
+  "audience_size": 249970,
+  "label": "Democratic Republic of Congo",
+  "rich_label": "Country — Democratic Republic of Congo",
+  "targeting_id": "325"
+},
+{
+  "_id": {
+    "$oid": "65af980c15c37c2337082c28"
+  },
+  "metadata": {
+    "country_code": "CG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "326674ea1ad6f260",
+  "audience_size": 32820,
+  "label": "Congo Brazzaville",
+  "rich_label": "Country — Congo Brazzaville",
+  "targeting_id": "405"
+},
+{
+  "_id": {
+    "$oid": "65af980d15c37c2337082c33"
+  },
+  "metadata": {
+    "country_code": "RE",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "6f8bf4f18e6799fe",
+  "audience_size": 89670,
+  "label": "Reunion",
+  "rich_label": "Country — Reunion",
+  "targeting_id": "443"
+},
+{
+  "_id": {
+    "$oid": "65af980e15c37c2337082c39"
+  },
+  "metadata": {
+    "country_code": "RW",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "84f644e036f3dcb0",
+  "audience_size": 226530,
+  "label": "Rwanda",
+  "rich_label": "Country — Rwanda",
+  "targeting_id": "445"
+},
+{
+  "_id": {
+    "$oid": "65af980e15c37c2337082c41"
+  },
+  "metadata": {
+    "country_code": "EH",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "48c457daa287c999",
+  "audience_size": 580,
+  "label": "Western Sahara",
+  "rich_label": "Country — Western Sahara",
+  "targeting_id": "440"
+},
+{
+  "_id": {
+    "$oid": "65af980f15c37c2337082c47"
+  },
+  "metadata": {
+    "country_code": "SH",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d4c3e6700fba84cb",
+  "audience_size": 200,
+  "label": "Saint Helena, Ascension and Tristan Da Cunha",
+  "rich_label": "Country — Saint Helena, Ascension and Tristan Da Cunha",
+  "targeting_id": "354"
+},
+{
+  "_id": {
+    "$oid": "65af980f15c37c2337082c4d"
+  },
+  "metadata": {
+    "country_code": "ST",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "8acdb1fe9ee444a0",
+  "audience_size": 1010,
+  "label": "São Tomé and Príncipe",
+  "rich_label": "Country — São Tomé and Príncipe",
+  "targeting_id": "326"
+},
+{
+  "_id": {
+    "$oid": "65af981015c37c2337082c53"
+  },
+  "metadata": {
+    "country_code": "SN",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "c5d6f8cac1a9be34",
+  "audience_size": 256780,
+  "label": "Senegal",
+  "rich_label": "Country — Senegal",
+  "targeting_id": "452"
+},
+{
+  "_id": {
+    "$oid": "65af981115c37c2337082c59"
+  },
+  "metadata": {
+    "country_code": "SC",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "04c9e28a7a635403",
+  "audience_size": 35760,
+  "label": "Seychelles",
+  "rich_label": "Country — Seychelles",
+  "targeting_id": "437"
+},
+{
+  "_id": {
+    "$oid": "65af981115c37c2337082c60"
+  },
+  "metadata": {
+    "country_code": "SL",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "1e228be254cad957",
+  "audience_size": 45580,
+  "label": "Sierra Leone",
+  "rich_label": "Country — Sierra Leone",
+  "targeting_id": "335"
+},
+{
+  "_id": {
+    "$oid": "65af981215c37c2337082c64"
+  },
+  "metadata": {
+    "country_code": "SO",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "2e09439cac5c7992",
+  "audience_size": 128690,
+  "label": "Somalia",
+  "rich_label": "Country — Somalia",
+  "targeting_id": "438"
+},
+{
+  "_id": {
+    "$oid": "65af981315c37c2337082c6e"
+  },
+  "metadata": {
+    "country_code": "ZA",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "dd9c0d7d7e07eb49",
+  "audience_size": 4048290,
+  "label": "South Africa",
+  "rich_label": "Country — South Africa",
+  "targeting_id": "45"
+},
+{
+  "_id": {
+    "$oid": "65af981415c37c2337082c78"
+  },
+  "metadata": {
+    "country_code": "TZ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "3a31097caf999c9f",
+  "audience_size": 613700,
+  "label": "Tanzania",
+  "rich_label": "Country — Tanzania",
+  "targeting_id": "380"
+},
+{
+  "_id": {
+    "$oid": "65af981515c37c2337082c80"
+  },
+  "metadata": {
+    "country_code": "TG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "9b3e472bb2f84d08",
+  "audience_size": 60140,
+  "label": "Togo",
+  "rich_label": "Country — Togo",
+  "targeting_id": "329"
+},
+{
+  "_id": {
+    "$oid": "65af981615c37c2337082c85"
+  },
+  "metadata": {
+    "country_code": "TN",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "5ddc8b97bfa4fa9d",
+  "audience_size": 384880,
+  "label": "Tunisia",
+  "rich_label": "Country — Tunisia",
+  "targeting_id": "355"
+},
+{
+  "_id": {
+    "$oid": "65af981615c37c2337082c89"
+  },
+  "metadata": {
+    "country_code": "UG",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "939067979a7f3b95",
+  "audience_size": 631120,
+  "label": "Uganda",
+  "rich_label": "Country — Uganda",
+  "targeting_id": "447"
+},
+{
+  "_id": {
+    "$oid": "65af981715c37c2337082c8f"
+  },
+  "metadata": {
+    "country_code": "DJ",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "fa1e0cb60ddedc05",
+  "audience_size": 22810,
+  "label": "Djibouti",
+  "rich_label": "Country — Djibouti",
+  "targeting_id": "459"
+},
+{
+  "_id": {
+    "$oid": "65af981815c37c2337082c95"
+  },
+  "metadata": {
+    "country_code": "ZM",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "5e8d90e3eaa45d69",
+  "audience_size": 140450,
+  "label": "Zambia",
+  "rich_label": "Country — Zambia",
+  "targeting_id": "336"
+},
+{
+  "_id": {
+    "$oid": "65af981815c37c2337082c9b"
+  },
+  "metadata": {
+    "country_code": "ZW",
+    "location_type": "Countries"
+  },
+  "api_targeting_type": "LOCATION",
+  "api_targeting_value": "d65fbac6845dcfd4",
+  "audience_size": 332310,
+  "label": "Zimbabwe",
+  "rich_label": "Country — Zimbabwe",
+  "targeting_id": "454"
+}]

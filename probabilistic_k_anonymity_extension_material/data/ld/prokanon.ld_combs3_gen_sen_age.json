@@ -1,0 +1,720 @@
+[{
+  "_id": {
+    "$oid": "6613e699a070465f7118e424"
+  },
+  "age_range": "(18,24)",
+  "gender": "MALE",
+  "seniority": "1",
+  "count": 900000
+},
+{
+  "_id": {
+    "$oid": "6613e69aa070465f7118e427"
+  },
+  "seniority": "1",
+  "gender": "FEMALE",
+  "age_range": "(18,24)",
+  "count": 770000
+},
+{
+  "_id": {
+    "$oid": "6613e69ba070465f7118e42e"
+  },
+  "age_range": "(25,34)",
+  "gender": "MALE",
+  "seniority": "1",
+  "count": 2300000
+},
+{
+  "_id": {
+    "$oid": "6613e69ca070465f7118e432"
+  },
+  "age_range": "(25,34)",
+  "gender": "FEMALE",
+  "seniority": "1",
+  "count": 1900000
+},
+{
+  "_id": {
+    "$oid": "6613e69da070465f7118e43c"
+  },
+  "seniority": "1",
+  "age_range": "(35,54)",
+  "gender": "MALE",
+  "count": 420000
+},
+{
+  "_id": {
+    "$oid": "6613e69ea070465f7118e442"
+  },
+  "seniority": "1",
+  "age_range": "(35,54)",
+  "gender": "FEMALE",
+  "count": 320000
+},
+{
+  "_id": {
+    "$oid": "6613e69fa070465f7118e445"
+  },
+  "age_range": "(55,2147483647)",
+  "gender": "MALE",
+  "seniority": "1",
+  "count": 490000
+},
+{
+  "_id": {
+    "$oid": "6613e6a0a070465f7118e448"
+  },
+  "seniority": "1",
+  "age_range": "(55,2147483647)",
+  "gender": "FEMALE",
+  "count": 210000
+},
+{
+  "_id": {
+    "$oid": "6613e6a1a070465f7118e458"
+  },
+  "seniority": "2",
+  "age_range": "(18,24)",
+  "gender": "MALE",
+  "count": 1700000
+},
+{
+  "_id": {
+    "$oid": "6613e6a2a070465f7118e45d"
+  },
+  "seniority": "2",
+  "age_range": "(18,24)",
+  "gender": "FEMALE",
+  "count": 1400000
+},
+{
+  "_id": {
+    "$oid": "6613e6a3a070465f7118e468"
+  },
+  "seniority": "2",
+  "age_range": "(25,34)",
+  "gender": "MALE",
+  "count": 2400000
+},
+{
+  "_id": {
+    "$oid": "6613e6a4a070465f7118e46e"
+  },
+  "seniority": "2",
+  "gender": "FEMALE",
+  "age_range": "(25,34)",
+  "count": 1900000
+},
+{
+  "_id": {
+    "$oid": "6613e6a5a070465f7118e472"
+  },
+  "seniority": "2",
+  "age_range": "(35,54)",
+  "gender": "MALE",
+  "count": 380000
+},
+{
+  "_id": {
+    "$oid": "6613e6a6a070465f7118e479"
+  },
+  "seniority": "2",
+  "gender": "FEMALE",
+  "age_range": "(35,54)",
+  "count": 350000
+},
+{
+  "_id": {
+    "$oid": "6613e6a7a070465f7118e47c"
+  },
+  "seniority": "2",
+  "gender": "MALE",
+  "age_range": "(55,2147483647)",
+  "count": 21000
+},
+{
+  "_id": {
+    "$oid": "6613e6a8a070465f7118e480"
+  },
+  "seniority": "2",
+  "gender": "FEMALE",
+  "age_range": "(55,2147483647)",
+  "count": 20000
+},
+{
+  "_id": {
+    "$oid": "6613e6a9a070465f7118e485"
+  },
+  "seniority": "3",
+  "gender": "MALE",
+  "age_range": "(18,24)",
+  "count": 24000000
+},
+{
+  "_id": {
+    "$oid": "6613e6aba070465f7118e48a"
+  },
+  "seniority": "3",
+  "age_range": "(18,24)",
+  "gender": "FEMALE",
+  "count": 20000000
+},
+{
+  "_id": {
+    "$oid": "6613e6aca070465f7118e490"
+  },
+  "seniority": "3",
+  "gender": "MALE",
+  "age_range": "(25,34)",
+  "count": 55000000
+},
+{
+  "_id": {
+    "$oid": "6613e6ada070465f7118e497"
+  },
+  "age_range": "(25,34)",
+  "gender": "FEMALE",
+  "seniority": "3",
+  "count": 44000000
+},
+{
+  "_id": {
+    "$oid": "6613e6aea070465f7118e49a"
+  },
+  "age_range": "(35,54)",
+  "gender": "MALE",
+  "seniority": "3",
+  "count": 19000000
+},
+{
+  "_id": {
+    "$oid": "6613e6afa070465f7118e4a0"
+  },
+  "age_range": "(35,54)",
+  "gender": "FEMALE",
+  "seniority": "3",
+  "count": 17000000
+},
+{
+  "_id": {
+    "$oid": "6613e6b0a070465f7118e4a5"
+  },
+  "age_range": "(55,2147483647)",
+  "gender": "MALE",
+  "seniority": "3",
+  "count": 3300000
+},
+{
+  "_id": {
+    "$oid": "6613e6b1a070465f7118e4ab"
+  },
+  "age_range": "(55,2147483647)",
+  "gender": "FEMALE",
+  "seniority": "3",
+  "count": 2500000
+},
+{
+  "_id": {
+    "$oid": "6613e6b1a070465f7118e4ae"
+  },
+  "age_range": "(18,24)",
+  "gender": "MALE",
+  "seniority": "4",
+  "count": 8600000
+},
+{
+  "_id": {
+    "$oid": "6613e6b2a070465f7118e4b1"
+  },
+  "age_range": "(18,24)",
+  "gender": "FEMALE",
+  "seniority": "4",
+  "count": 8100000
+},
+{
+  "_id": {
+    "$oid": "6613e6b3a070465f7118e4b7"
+  },
+  "age_range": "(25,34)",
+  "gender": "MALE",
+  "seniority": "4",
+  "count": 29000000
+},
+{
+  "_id": {
+    "$oid": "6613e6b4a070465f7118e4bb"
+  },
+  "age_range": "(25,34)",
+  "gender": "FEMALE",
+  "seniority": "4",
+  "count": 24000000
+},
+{
+  "_id": {
+    "$oid": "6613e6b6a070465f7118e4bf"
+  },
+  "age_range": "(35,54)",
+  "gender": "MALE",
+  "seniority": "4",
+  "count": 19000000
+},
+{
+  "_id": {
+    "$oid": "6613e6b7a070465f7118e4c9"
+  },
+  "age_range": "(35,54)",
+  "gender": "FEMALE",
+  "seniority": "4",
+  "count": 16000000
+},
+{
+  "_id": {
+    "$oid": "6613e6b8a070465f7118e4cc"
+  },
+  "age_range": "(55,2147483647)",
+  "gender": "MALE",
+  "seniority": "4",
+  "count": 4100000
+},
+{
+  "_id": {
+    "$oid": "6613e6b9a070465f7118e4d2"
+  },
+  "seniority": "4",
+  "age_range": "(55,2147483647)",
+  "gender": "FEMALE",
+  "count": 2500000
+},
+{
+  "_id": {
+    "$oid": "6613e6baa070465f7118e4d7"
+  },
+  "seniority": "5",
+  "age_range": "(18,24)",
+  "gender": "MALE",
+  "count": 3100000
+},
+{
+  "_id": {
+    "$oid": "6613e6bba070465f7118e4da"
+  },
+  "seniority": "5",
+  "gender": "FEMALE",
+  "age_range": "(18,24)",
+  "count": 2200000
+},
+{
+  "_id": {
+    "$oid": "6613e6bca070465f7118e4e0"
+  },
+  "seniority": "5",
+  "gender": "MALE",
+  "age_range": "(25,34)",
+  "count": 12000000
+},
+{
+  "_id": {
+    "$oid": "6613e6bda070465f7118e4e3"
+  },
+  "age_range": "(25,34)",
+  "gender": "FEMALE",
+  "seniority": "5",
+  "count": 6400000
+},
+{
+  "_id": {
+    "$oid": "6613e6bea070465f7118e4e9"
+  },
+  "seniority": "5",
+  "age_range": "(35,54)",
+  "gender": "MALE",
+  "count": 9500000
+},
+{
+  "_id": {
+    "$oid": "6613e6bfa070465f7118e4ee"
+  },
+  "seniority": "5",
+  "gender": "FEMALE",
+  "age_range": "(35,54)",
+  "count": 5400000
+},
+{
+  "_id": {
+    "$oid": "6613e6c0a070465f7118e4f1"
+  },
+  "seniority": "5",
+  "age_range": "(55,2147483647)",
+  "gender": "MALE",
+  "count": 2000000
+},
+{
+  "_id": {
+    "$oid": "6613e6c1a070465f7118e4fb"
+  },
+  "age_range": "(55,2147483647)",
+  "gender": "FEMALE",
+  "seniority": "5",
+  "count": 810000
+},
+{
+  "_id": {
+    "$oid": "6613e6c2a070465f7118e504"
+  },
+  "age_range": "(18,24)",
+  "gender": "MALE",
+  "seniority": "6",
+  "count": 1100000
+},
+{
+  "_id": {
+    "$oid": "6613e6c3a070465f7118e50b"
+  },
+  "seniority": "6",
+  "age_range": "(18,24)",
+  "gender": "FEMALE",
+  "count": 860000
+},
+{
+  "_id": {
+    "$oid": "6613e6c4a070465f7118e512"
+  },
+  "seniority": "6",
+  "age_range": "(25,34)",
+  "gender": "MALE",
+  "count": 5500000
+},
+{
+  "_id": {
+    "$oid": "6613e6c5a070465f7118e518"
+  },
+  "seniority": "6",
+  "gender": "FEMALE",
+  "age_range": "(25,34)",
+  "count": 3300000
+},
+{
+  "_id": {
+    "$oid": "6613e6c6a070465f7118e521"
+  },
+  "age_range": "(35,54)",
+  "gender": "MALE",
+  "seniority": "6",
+  "count": 7400000
+},
+{
+  "_id": {
+    "$oid": "6613e6c7a070465f7118e524"
+  },
+  "age_range": "(35,54)",
+  "gender": "FEMALE",
+  "seniority": "6",
+  "count": 4800000
+},
+{
+  "_id": {
+    "$oid": "6613e6c8a070465f7118e527"
+  },
+  "seniority": "6",
+  "gender": "MALE",
+  "age_range": "(55,2147483647)",
+  "count": 2200000
+},
+{
+  "_id": {
+    "$oid": "6613e6c9a070465f7118e52f"
+  },
+  "seniority": "6",
+  "gender": "FEMALE",
+  "age_range": "(55,2147483647)",
+  "count": 930000
+},
+{
+  "_id": {
+    "$oid": "6613e6caa070465f7118e532"
+  },
+  "age_range": "(18,24)",
+  "gender": "MALE",
+  "seniority": "7",
+  "count": 630000
+},
+{
+  "_id": {
+    "$oid": "6613e6cba070465f7118e53c"
+  },
+  "age_range": "(18,24)",
+  "gender": "FEMALE",
+  "seniority": "7",
+  "count": 430000
+},
+{
+  "_id": {
+    "$oid": "6613e6cca070465f7118e53f"
+  },
+  "seniority": "7",
+  "gender": "MALE",
+  "age_range": "(25,34)",
+  "count": 2900000
+},
+{
+  "_id": {
+    "$oid": "6613e6cda070465f7118e543"
+  },
+  "seniority": "7",
+  "age_range": "(25,34)",
+  "gender": "FEMALE",
+  "count": 1200000
+},
+{
+  "_id": {
+    "$oid": "6613e6cea070465f7118e54a"
+  },
+  "age_range": "(35,54)",
+  "gender": "MALE",
+  "seniority": "7",
+  "count": 3500000
+},
+{
+  "_id": {
+    "$oid": "6613e6cfa070465f7118e54d"
+  },
+  "age_range": "(35,54)",
+  "gender": "FEMALE",
+  "seniority": "7",
+  "count": 1600000
+},
+{
+  "_id": {
+    "$oid": "6613e6d0a070465f7118e550"
+  },
+  "age_range": "(55,2147483647)",
+  "gender": "MALE",
+  "seniority": "7",
+  "count": 1300000
+},
+{
+  "_id": {
+    "$oid": "6613e6d1a070465f7118e556"
+  },
+  "age_range": "(55,2147483647)",
+  "gender": "FEMALE",
+  "seniority": "7",
+  "count": 370000
+},
+{
+  "_id": {
+    "$oid": "6613e6d2a070465f7118e559"
+  },
+  "seniority": "8",
+  "gender": "MALE",
+  "age_range": "(18,24)",
+  "count": 620000
+},
+{
+  "_id": {
+    "$oid": "6613e6d3a070465f7118e55e"
+  },
+  "seniority": "8",
+  "gender": "FEMALE",
+  "age_range": "(18,24)",
+  "count": 330000
+},
+{
+  "_id": {
+    "$oid": "6613e6d4a070465f7118e564"
+  },
+  "seniority": "8",
+  "age_range": "(25,34)",
+  "gender": "MALE",
+  "count": 2500000
+},
+{
+  "_id": {
+    "$oid": "6613e6d5a070465f7118e56b"
+  },
+  "age_range": "(25,34)",
+  "gender": "FEMALE",
+  "seniority": "8",
+  "count": 1000000
+},
+{
+  "_id": {
+    "$oid": "6613e6d6a070465f7118e571"
+  },
+  "age_range": "(35,54)",
+  "gender": "MALE",
+  "seniority": "8",
+  "count": 3200000
+},
+{
+  "_id": {
+    "$oid": "6613e6d6a070465f7118e574"
+  },
+  "age_range": "(35,54)",
+  "gender": "FEMALE",
+  "seniority": "8",
+  "count": 1300000
+},
+{
+  "_id": {
+    "$oid": "6613e6d7a070465f7118e578"
+  },
+  "age_range": "(55,2147483647)",
+  "gender": "MALE",
+  "seniority": "8",
+  "count": 1500000
+},
+{
+  "_id": {
+    "$oid": "6613e6d8a070465f7118e57f"
+  },
+  "age_range": "(55,2147483647)",
+  "gender": "FEMALE",
+  "seniority": "8",
+  "count": 390000
+},
+{
+  "_id": {
+    "$oid": "6613e6d9a070465f7118e582"
+  },
+  "seniority": "9",
+  "gender": "MALE",
+  "age_range": "(18,24)",
+  "count": 140000
+},
+{
+  "_id": {
+    "$oid": "6613e6daa070465f7118e585"
+  },
+  "age_range": "(18,24)",
+  "gender": "FEMALE",
+  "seniority": "9",
+  "count": 110000
+},
+{
+  "_id": {
+    "$oid": "6613e6dba070465f7118e58b"
+  },
+  "age_range": "(25,34)",
+  "gender": "MALE",
+  "seniority": "9",
+  "count": 690000
+},
+{
+  "_id": {
+    "$oid": "6613e6dca070465f7118e58e"
+  },
+  "age_range": "(25,34)",
+  "gender": "FEMALE",
+  "seniority": "9",
+  "count": 390000
+},
+{
+  "_id": {
+    "$oid": "6613e6dda070465f7118e596"
+  },
+  "seniority": "9",
+  "age_range": "(35,54)",
+  "gender": "MALE",
+  "count": 1200000
+},
+{
+  "_id": {
+    "$oid": "6613e6dea070465f7118e599"
+  },
+  "age_range": "(35,54)",
+  "gender": "FEMALE",
+  "seniority": "9",
+  "count": 790000
+},
+{
+  "_id": {
+    "$oid": "6613e6dea070465f7118e59d"
+  },
+  "age_range": "(55,2147483647)",
+  "gender": "MALE",
+  "seniority": "9",
+  "count": 540000
+},
+{
+  "_id": {
+    "$oid": "6613e6dfa070465f7118e5a3"
+  },
+  "seniority": "9",
+  "gender": "FEMALE",
+  "age_range": "(55,2147483647)",
+  "count": 170000
+},
+{
+  "_id": {
+    "$oid": "6613e6dfa070465f7118e5a9"
+  },
+  "seniority": "10",
+  "gender": "MALE",
+  "age_range": "(18,24)",
+  "count": 1200000
+},
+{
+  "_id": {
+    "$oid": "6613e6e0a070465f7118e5ac"
+  },
+  "seniority": "10",
+  "gender": "FEMALE",
+  "age_range": "(18,24)",
+  "count": 760000
+},
+{
+  "_id": {
+    "$oid": "6613e6e0a070465f7118e5af"
+  },
+  "seniority": "10",
+  "gender": "MALE",
+  "age_range": "(25,34)",
+  "count": 4400000
+},
+{
+  "_id": {
+    "$oid": "6613e6e1a070465f7118e5b2"
+  },
+  "seniority": "10",
+  "age_range": "(25,34)",
+  "gender": "FEMALE",
+  "count": 2500000
+},
+{
+  "_id": {
+    "$oid": "6613e6e1a070465f7118e5b6"
+  },
+  "seniority": "10",
+  "gender": "MALE",
+  "age_range": "(35,54)",
+  "count": 5900000
+},
+{
+  "_id": {
+    "$oid": "6613e6e2a070465f7118e5bd"
+  },
+  "seniority": "10",
+  "gender": "FEMALE",
+  "age_range": "(35,54)",
+  "count": 3200000
+},
+{
+  "_id": {
+    "$oid": "6613e6e2a070465f7118e5c0"
+  },
+  "seniority": "10",
+  "gender": "MALE",
+  "age_range": "(55,2147483647)",
+  "count": 1900000
+},
+{
+  "_id": {
+    "$oid": "6613e6e3a070465f7118e5c3"
+  },
+  "seniority": "10",
+  "gender": "FEMALE",
+  "age_range": "(55,2147483647)",
+  "count": 790000
+}]
