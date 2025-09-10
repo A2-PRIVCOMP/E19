@@ -1,0 +1,590 @@
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="../q.css">
+	<title>Sensitive Interests - Questionnaire</title>
+    <script src='https://www.google.com/recaptcha/api.js?render=<RECAPTCHA_KEY>'></script>
+    
+    <script>
+    fingerprint = (function(window, screen, navigator) {
+
+        // https://github.com/darkskyapp/string-hash
+        function checksum(str) {
+            var hash = 5381,
+                i = str.length;
+
+            while (i--) hash = (hash * 33) ^ str.charCodeAt(i);
+
+            return hash >>> 0;
+        }
+
+        // http://stackoverflow.com/a/4167870/1250044
+        function map(arr, fn){
+            var i = 0, len = arr.length, ret = [];
+            while(i < len){
+                ret[i] = fn(arr[i++]);
+            }
+            return ret;
+        }
+
+        return checksum([
+            navigator.userAgent,
+            [screen.height, screen.width, screen.colorDepth].join('x'),
+            new Date().getTimezoneOffset(),
+            !!window.sessionStorage,
+            !!window.localStorage,
+            map(navigator.plugins, function (plugin) {
+                return [
+                    plugin.name,
+                    plugin.description,
+                    map(plugin, function (mime) {
+                        return [mime.type, mime.suffixes].join('~');
+                    }).join(',')
+                ].join("::");
+            }).join(';')
+        ].join('###'));
+
+        }(this, screen, navigator));
+    </script>
+    <script>
+        function reloadCaptcha(){
+            grecaptcha.ready(function() {
+            grecaptcha.execute('<RECAPTCHA_KEY>', {action: 'classification_sensitive_form'})
+            .then(function(token) {
+            var recaptchaResponse = document.getElementById('recaptchaResponse');
+            recaptchaResponse.value = token;
+            });
+            });
+        }
+        reloadCaptcha();
+        function click_button(value){
+            document.getElementById("fingerprint").value = fingerprint;
+            document.getElementById('user_category').value = value;
+            document.getElementById('category_buttons').style.display='none';
+            document.getElementById('demographic_fields').style.visibility='visible';
+        }
+    </script>
+</head>
+<body>
+    <div id="google_translate_element"></div>
+
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+    }
+    </script>
+    
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<header>
+	<h1 style="color: black">
+		<span style="float:center;">
+			<a href="../../"><img class="shape2" src="<LOGO_IMAGE>" style="width: 5%; border:2px solid red; border-radius:5px;" align="center"></img></a>
+		</span>
+		<span>Questionnaire for <span style="color: red;">legal experts</span></span>
+	</h1>
+</header>
+
+<form id="rendered-form" action="" method = "post">
+    <div class="inst" style="text-align: center; margin: 2%;">
+        <div class="">
+            <h2 id="control-7093163">Instructions</h2>
+            <div style="text-align: justify; padding:2%; border: 2px solid lightcoral;">
+                    <p>
+                        <b><u>CONTEXT:</u></b><br>
+                        When we browse on the Internet, online services, websites, etc. create profiles of what may be interesting for us based on our activity. This information is later exploited for personalization purposes such as: (i) recommending products that may be aligned with our interests, (ii) recommending content that may be aligned to our interests, (iii) showing us tailored ads that may be aligned to our interests, etc. The interests that online services assign to our profiles may be more or less sensitive. 
+                        <br>
+                        In this experiment, we will be showing interests that have been assigned to real users on the Internet and we are asking you to classify them as sensitive or non-sensitive for you. Below, you will find detailed instructions on how to proceed to classify an interest. 
+                        <br>
+                        To help you understand what a sensitive interest is from a legal point of view, we add here the definition of sensitive information provided by the current General Data Protection Regulation (GDPR) that is enforced in all EU countries. 
+                    </p>
+                    <div style="font-style: italic; font-weight: bold;">
+                    <p>ARTICLE 9 EU GDPR: "Processing of special categories of personal data"</p>
+                    <p>Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, 
+                        or trade union membership, and the processing of genetic data, biometric data 
+                        for the purpose of uniquely identifying a natural person, data concerning health 
+                        or data concerning a natural person's sex life or sexual orientation shall be prohibited</p>
+                    </div>
+                    <p>
+                        <b><u>CLASSIFICATION INSTRUCTIONS:</u></b><br>
+                        Before starting the pure classification task. We are asking you:<br>
+                        1. To answer what your Internet knowledge is.<br>
+                        2. To fill some demographics parameters: Gender, Age Group, and Country.<br>
+                        <br>
+                        Once you provide this information you have to click on the Green Start button to start the interest classification.<br>
+                        3. We will show you the interest in bold large letters together with the following information:<br>
+                        &nbsp;&nbsp;-<b>Interest</b>: This refers to the actual interest you have to classify.<br>
+                        &nbsp;&nbsp;-<b>Disambiguation Category</b>: This helps you to understand the actual meaning of the interest. For instance, you can see Mercury as an interest. Mercury can refer to a metal or a planet. Hence, the disambiguation category value will be either “Metal” or “Planet” depending on what the interest is referring to.<br>
+                        &nbsp;&nbsp;-<b>Topic</b>: This provides some contextual information related to the interest (Lifestyle and culture, News and entertainment, people, etc.) that may be useful to better know what the interest is referring to.<br>
+                        <br>
+                        4. With all the information above you will be given several options to classify the interest:<br>
+                        &nbsp;&nbsp;-Non-sensitive: You need to select this option in case you consider the interest in the screen is not sensitive.<br>
+                        &nbsp;&nbsp;-Not Known: You need to  select this option if you do not understand the meaning of the interest or you are unable to decide whether it is sensitive or non-sensitive<br>
+                        &nbsp;&nbsp;-In case you consider the interest is sensitive you have to select one of the 6 options provided for sensitive interests: Political, Religious, Racial, Health, Sexual, or Other. You should choose Other in case you think the interest is sensitive but it does not fit in any of the 5 categories the system offers to classify sensitive interests.<br>
+                        <br>
+                        5. Once you have decided on the right category you just have to click on it and automatically a new interest will appear.<br>
+                        <br>
+                        The more interests you classify the better for our research since we need to get thousands of interests classified. <b>We would appreciate it if you could classify at least 200 interests every time you open the classification page</b>.
+                        We strongly appreciate your contribution, which will help to advance science and help to understand better what type of personal information should be considered sensitive.
+                </div>
+                <h4 style="color: red;">Use the same device and browser when accessing this questionnaire to guarantee we can link your replies in different sessions.</h4>
+                <div id = 'start' style="display: inline-block; width: 100%">
+                <div id='category_buttons'>
+                <input id="fingerprint" type="hidden" value="" name="fingerprint">
+                <h3>Hello <span style="color: red;">Legal Expert</span>*, what is your knowledge of the Internet and Technologies?</h3>
+                <a class="button" style="height: 55px; width: 50%;" onclick="click_button('LAWYER1')">BASIC</a>
+                <a class="button" style="height: 55px; width: 50%;" onclick="click_button('LAWYER2')">INTERMEDIATE</a>
+                <a class="button" style="height: 55px; width: 50%;" onclick="click_button('LAWYER3')">ADVANCED</a>
+                <h4>*Not a <span style="color: red;">Legal Expert</span>? Click <a href='../user_questionnaire/'>here if you are a Regular Internet User</a> or <a href='../techs_questionnaire/'>here if you are a Tech Expert</a></h4>
+                </div>
+                <div id='demographic_fields' style="visibility: hidden;">
+                <h3>Please, fill your demographics</h3>
+                <select id="gender" name="gender">
+                    <option disabled = "disabled" selected>Choose Gender</option>
+                    <option value="1">Man</option>
+                    <option value="2">Woman</option>
+                    <option value="3">Other</option>
+                </select>
+                <select id="age" name="age_group">
+                    <option disabled = "disabled" selected>Choose Age Group</option>
+                    <option value="1">18-39</option>
+                    <option value="2">40-64</option>
+                    <option value="3">65+</option>
+                </select>
+                <select id="country" name="country">
+                    <option disabled = "disabled" selected>Choose Country</option>
+                    <option value="AFG">Afghanistan</option>
+                    <option value="ALA">Åland Islands</option>
+                    <option value="ALB">Albania</option>
+                    <option value="DZA">Algeria</option>
+                    <option value="ASM">American Samoa</option>
+                    <option value="AND">Andorra</option>
+                    <option value="AGO">Angola</option>
+                    <option value="AIA">Anguilla</option>
+                    <option value="ATA">Antarctica</option>
+                    <option value="ATG">Antigua and Barbuda</option>
+                    <option value="ARG">Argentina</option>
+                    <option value="ARM">Armenia</option>
+                    <option value="ABW">Aruba</option>
+                    <option value="AUS">Australia</option>
+                    <option value="AUT">Austria</option>
+                    <option value="AZE">Azerbaijan</option>
+                    <option value="BHS">Bahamas</option>
+                    <option value="BHR">Bahrain</option>
+                    <option value="BGD">Bangladesh</option>
+                    <option value="BRB">Barbados</option>
+                    <option value="BLR">Belarus</option>
+                    <option value="BEL">Belgium</option>
+                    <option value="BLZ">Belize</option>
+                    <option value="BEN">Benin</option>
+                    <option value="BMU">Bermuda</option>
+                    <option value="BTN">Bhutan</option>
+                    <option value="BOL">Bolivia, Plurinational State of</option>
+                    <option value="BES">Bonaire, Sint Eustatius and Saba</option>
+                    <option value="BIH">Bosnia and Herzegovina</option>
+                    <option value="BWA">Botswana</option>
+                    <option value="BVT">Bouvet Island</option>
+                    <option value="BRA">Brazil</option>
+                    <option value="IOT">British Indian Ocean Territory</option>
+                    <option value="BRN">Brunei Darussalam</option>
+                    <option value="BGR">Bulgaria</option>
+                    <option value="BFA">Burkina Faso</option>
+                    <option value="BDI">Burundi</option>
+                    <option value="KHM">Cambodia</option>
+                    <option value="CMR">Cameroon</option>
+                    <option value="CAN">Canada</option>
+                    <option value="CPV">Cape Verde</option>
+                    <option value="CYM">Cayman Islands</option>
+                    <option value="CAF">Central African Republic</option>
+                    <option value="TCD">Chad</option>
+                    <option value="CHL">Chile</option>
+                    <option value="CHN">China</option>
+                    <option value="CXR">Christmas Island</option>
+                    <option value="CCK">Cocos (Keeling) Islands</option>
+                    <option value="COL">Colombia</option>
+                    <option value="COM">Comoros</option>
+                    <option value="COG">Congo</option>
+                    <option value="COD">Congo, the Democratic Republic of the</option>
+                    <option value="COK">Cook Islands</option>
+                    <option value="CRI">Costa Rica</option>
+                    <option value="CIV">Côte d'Ivoire</option>
+                    <option value="HRV">Croatia</option>
+                    <option value="CUB">Cuba</option>
+                    <option value="CUW">Curaçao</option>
+                    <option value="CYP">Cyprus</option>
+                    <option value="CZE">Czech Republic</option>
+                    <option value="DNK">Denmark</option>
+                    <option value="DJI">Djibouti</option>
+                    <option value="DMA">Dominica</option>
+                    <option value="DOM">Dominican Republic</option>
+                    <option value="ECU">Ecuador</option>
+                    <option value="EGY">Egypt</option>
+                    <option value="SLV">El Salvador</option>
+                    <option value="GNQ">Equatorial Guinea</option>
+                    <option value="ERI">Eritrea</option>
+                    <option value="EST">Estonia</option>
+                    <option value="ETH">Ethiopia</option>
+                    <option value="FLK">Falkland Islands (Malvinas)</option>
+                    <option value="FRO">Faroe Islands</option>
+                    <option value="FJI">Fiji</option>
+                    <option value="FIN">Finland</option>
+                    <option value="FRA">France</option>
+                    <option value="GUF">French Guiana</option>
+                    <option value="PYF">French Polynesia</option>
+                    <option value="ATF">French Southern Territories</option>
+                    <option value="GAB">Gabon</option>
+                    <option value="GMB">Gambia</option>
+                    <option value="GEO">Georgia</option>
+                    <option value="DEU">Germany</option>
+                    <option value="GHA">Ghana</option>
+                    <option value="GIB">Gibraltar</option>
+                    <option value="GRC">Greece</option>
+                    <option value="GRL">Greenland</option>
+                    <option value="GRD">Grenada</option>
+                    <option value="GLP">Guadeloupe</option>
+                    <option value="GUM">Guam</option>
+                    <option value="GTM">Guatemala</option>
+                    <option value="GGY">Guernsey</option>
+                    <option value="GIN">Guinea</option>
+                    <option value="GNB">Guinea-Bissau</option>
+                    <option value="GUY">Guyana</option>
+                    <option value="HTI">Haiti</option>
+                    <option value="HMD">Heard Island and McDonald Islands</option>
+                    <option value="VAT">Holy See (Vatican City State)</option>
+                    <option value="HND">Honduras</option>
+                    <option value="HKG">Hong Kong</option>
+                    <option value="HUN">Hungary</option>
+                    <option value="ISL">Iceland</option>
+                    <option value="IND">India</option>
+                    <option value="IDN">Indonesia</option>
+                    <option value="IRN">Iran, Islamic Republic of</option>
+                    <option value="IRQ">Iraq</option>
+                    <option value="IRL">Ireland</option>
+                    <option value="IMN">Isle of Man</option>
+                    <option value="ISR">Israel</option>
+                    <option value="ITA">Italy</option>
+                    <option value="JAM">Jamaica</option>
+                    <option value="JPN">Japan</option>
+                    <option value="JEY">Jersey</option>
+                    <option value="JOR">Jordan</option>
+                    <option value="KAZ">Kazakhstan</option>
+                    <option value="KEN">Kenya</option>
+                    <option value="KIR">Kiribati</option>
+                    <option value="PRK">Korea, Democratic People's Republic of</option>
+                    <option value="KOR">Korea, Republic of</option>
+                    <option value="KWT">Kuwait</option>
+                    <option value="KGZ">Kyrgyzstan</option>
+                    <option value="LAO">Lao People's Democratic Republic</option>
+                    <option value="LVA">Latvia</option>
+                    <option value="LBN">Lebanon</option>
+                    <option value="LSO">Lesotho</option>
+                    <option value="LBR">Liberia</option>
+                    <option value="LBY">Libya</option>
+                    <option value="LIE">Liechtenstein</option>
+                    <option value="LTU">Lithuania</option>
+                    <option value="LUX">Luxembourg</option>
+                    <option value="MAC">Macao</option>
+                    <option value="MKD">Macedonia, the former Yugoslav Republic of</option>
+                    <option value="MDG">Madagascar</option>
+                    <option value="MWI">Malawi</option>
+                    <option value="MYS">Malaysia</option>
+                    <option value="MDV">Maldives</option>
+                    <option value="MLI">Mali</option>
+                    <option value="MLT">Malta</option>
+                    <option value="MHL">Marshall Islands</option>
+                    <option value="MTQ">Martinique</option>
+                    <option value="MRT">Mauritania</option>
+                    <option value="MUS">Mauritius</option>
+                    <option value="MYT">Mayotte</option>
+                    <option value="MEX">Mexico</option>
+                    <option value="FSM">Micronesia, Federated States of</option>
+                    <option value="MDA">Moldova, Republic of</option>
+                    <option value="MCO">Monaco</option>
+                    <option value="MNG">Mongolia</option>
+                    <option value="MNE">Montenegro</option>
+                    <option value="MSR">Montserrat</option>
+                    <option value="MAR">Morocco</option>
+                    <option value="MOZ">Mozambique</option>
+                    <option value="MMR">Myanmar</option>
+                    <option value="NAM">Namibia</option>
+                    <option value="NRU">Nauru</option>
+                    <option value="NPL">Nepal</option>
+                    <option value="NLD">Netherlands</option>
+                    <option value="NCL">New Caledonia</option>
+                    <option value="NZL">New Zealand</option>
+                    <option value="NIC">Nicaragua</option>
+                    <option value="NER">Niger</option>
+                    <option value="NGA">Nigeria</option>
+                    <option value="NIU">Niue</option>
+                    <option value="NFK">Norfolk Island</option>
+                    <option value="MNP">Northern Mariana Islands</option>
+                    <option value="NOR">Norway</option>
+                    <option value="OMN">Oman</option>
+                    <option value="PAK">Pakistan</option>
+                    <option value="PLW">Palau</option>
+                    <option value="PSE">Palestinian Territory, Occupied</option>
+                    <option value="PAN">Panama</option>
+                    <option value="PNG">Papua New Guinea</option>
+                    <option value="PRY">Paraguay</option>
+                    <option value="PER">Peru</option>
+                    <option value="PHL">Philippines</option>
+                    <option value="PCN">Pitcairn</option>
+                    <option value="POL">Poland</option>
+                    <option value="PRT">Portugal</option>
+                    <option value="PRI">Puerto Rico</option>
+                    <option value="QAT">Qatar</option>
+                    <option value="REU">Réunion</option>
+                    <option value="ROU">Romania</option>
+                    <option value="RUS">Russian Federation</option>
+                    <option value="RWA">Rwanda</option>
+                    <option value="BLM">Saint Barthélemy</option>
+                    <option value="SHN">Saint Helena, Ascension and Tristan da Cunha</option>
+                    <option value="KNA">Saint Kitts and Nevis</option>
+                    <option value="LCA">Saint Lucia</option>
+                    <option value="MAF">Saint Martin (French part)</option>
+                    <option value="SPM">Saint Pierre and Miquelon</option>
+                    <option value="VCT">Saint Vincent and the Grenadines</option>
+                    <option value="WSM">Samoa</option>
+                    <option value="SMR">San Marino</option>
+                    <option value="STP">Sao Tome and Principe</option>
+                    <option value="SAU">Saudi Arabia</option>
+                    <option value="SEN">Senegal</option>
+                    <option value="SRB">Serbia</option>
+                    <option value="SYC">Seychelles</option>
+                    <option value="SLE">Sierra Leone</option>
+                    <option value="SGP">Singapore</option>
+                    <option value="SXM">Sint Maarten (Dutch part)</option>
+                    <option value="SVK">Slovakia</option>
+                    <option value="SVN">Slovenia</option>
+                    <option value="SLB">Solomon Islands</option>
+                    <option value="SOM">Somalia</option>
+                    <option value="ZAF">South Africa</option>
+                    <option value="SGS">South Georgia and the South Sandwich Islands</option>
+                    <option value="SSD">South Sudan</option>
+                    <option value="ESP">Spain</option>
+                    <option value="LKA">Sri Lanka</option>
+                    <option value="SDN">Sudan</option>
+                    <option value="SUR">Suriname</option>
+                    <option value="SJM">Svalbard and Jan Mayen</option>
+                    <option value="SWZ">Swaziland</option>
+                    <option value="SWE">Sweden</option>
+                    <option value="CHE">Switzerland</option>
+                    <option value="SYR">Syrian Arab Republic</option>
+                    <option value="TWN">Taiwan, Province of China</option>
+                    <option value="TJK">Tajikistan</option>
+                    <option value="TZA">Tanzania, United Republic of</option>
+                    <option value="THA">Thailand</option>
+                    <option value="TLS">Timor-Leste</option>
+                    <option value="TGO">Togo</option>
+                    <option value="TKL">Tokelau</option>
+                    <option value="TON">Tonga</option>
+                    <option value="TTO">Trinidad and Tobago</option>
+                    <option value="TUN">Tunisia</option>
+                    <option value="TUR">Turkey</option>
+                    <option value="TKM">Turkmenistan</option>
+                    <option value="TCA">Turks and Caicos Islands</option>
+                    <option value="TUV">Tuvalu</option>
+                    <option value="UGA">Uganda</option>
+                    <option value="UKR">Ukraine</option>
+                    <option value="ARE">United Arab Emirates</option>
+                    <option value="GBR">United Kingdom</option>
+                    <option value="USA">United States</option>
+                    <option value="UMI">United States Minor Outlying Islands</option>
+                    <option value="URY">Uruguay</option>
+                    <option value="UZB">Uzbekistan</option>
+                    <option value="VUT">Vanuatu</option>
+                    <option value="VEN">Venezuela, Bolivarian Republic of</option>
+                    <option value="VNM">Viet Nam</option>
+                    <option value="VGB">Virgin Islands, British</option>
+                    <option value="VIR">Virgin Islands, U.S.</option>
+                    <option value="WLF">Wallis and Futuna</option>
+                    <option value="ESH">Western Sahara</option>
+                    <option value="YEM">Yemen</option>
+                    <option value="ZMB">Zambia</option>
+                    <option value="ZWE">Zimbabwe</option>
+                </select>
+            </div>
+            <button id="start_button" style="visibility: hidden;" class="button2" type = "submit" onclick="getElementById('demographic_fields').style.display='none';">START</button>
+            </div>
+        </div>
+    </div>
+    <div id='complete_information_form' style="visibility:hidden;">
+        <table style="width: 100%;text-align: center;">
+            <tbody>
+                <tr>
+                    <td style="font-size: 22px;"> Disambiguation Category</td>
+                    <td style="font-size: 22px;">Topic</td>
+                </tr>
+                <tr style="height: 70px;">
+                    <th style="font-size: 26px;" id="disambiguation"></th>
+                    <th style="font-size: 26px;" id="topic"></th>
+                </tr>
+                <tr>
+                    <td style="font-size: 22px;" colspan="2">Interest</td>
+                </tr>
+                <tr style="height: 160px;">
+                    <th style="font-size: 30px;" colspan="2" id="interest"></th>
+                </tr>
+            <tr>
+                <td>
+                    <button class="button2" type="submit" onclick="getElementById('answer').value = 'W';">Non Sensitive</button>
+                </td>
+                <td>
+                    <button class="button2" type="submit" onclick="getElementById('answer').value = 'N';">Not known</button>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button class="button" type="submit" onclick="getElementById('answer').value = 'P';">Sensitive: Political</button>
+                </td>
+                <td>
+                    <button class="button" type="submit" onclick="getElementById('answer').value = 'R';">Sensitive: Religious</button>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button class="button" type="submit" onclick="getElementById('answer').value = 'E';">Sensitive: Racial</button>
+                </td>
+                <td>
+                    <button class="button" type="submit" onclick="getElementById('answer').value = 'H';">Sensitive: Healthy</button>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button class="button" type="submit" onclick="getElementById('answer').value = 'S';">Sensitive: Sexual</button>
+                </td>
+                <td>
+                    <button class="button" type="submit" onclick="getElementById('answer').value = 'O';">Sensitive: Other</button>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <input id="id_interest_evaluated" type="hidden" value="0" name="id_interest">
+        <input id="user_category" type="hidden" value="0" name="u_cat">
+        <input id="answer" type="hidden" value="0" name="to_insert">
+    </div>
+    <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
+</form>
+<table id="table_down_info" style="width: 100%;text-align: center; visibility: hidden;">
+    <tbody>
+        <tr>
+            <td>
+                <button id='last_id' class="finish_button" onclick="last_response();">Go back: correct last response</button>
+            </td>
+            <td>
+                <button id='contador' class="finish_button"onclick="document.getElementById('id_interest_evaluated').value = '0';window.location.replace('finished.html');" value="0">Finish questionnaire with 0 responses registered</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="visibility: hidden;" id="bot_counter">0</p>
+<p style="visibility: hidden;" id="last_id_interest">0</p>
+<p style="visibility: hidden;" id="last_interest">0</p>
+<p style="visibility: hidden;" id="last_disambiguation">0</p>
+<p style="visibility: hidden;" id="last_topic">0</p>  
+</body>
+<script>  
+    var gender = document.getElementById("gender");
+    var age = document.getElementById("age");
+    var country = document.getElementById("country");
+
+    $(document).ready(function() {
+        document.forms['rendered-form'].reset();
+        document.getElementById('id_interest_evaluated').value = "0";
+        document.getElementById('user_category').value = "0";
+        setInterval(function(){ reloadCaptcha(); }, 60000); //Reload captcha every min
+    });
+    $(document).focus(function() {
+        reloadCaptcha();
+    });
+
+    gender.addEventListener("change", function() {
+        comprobar_activar_start();
+    });
+    age.addEventListener("change", function() {
+        comprobar_activar_start();
+    });
+    country.addEventListener("change", function() {
+        comprobar_activar_start();
+    });
+    function comprobar_activar_start(){
+        if($('#gender').val() && $('#country').val() && $('#age').val()){
+            //document.getElementById('demographic_fields').style.display = 'none';
+            document.getElementById('start_button').style.visibility = 'visible';
+        }
+
+    }
+    function last_response(){
+        if(document.getElementById('last_id_interest').textContent.length <= 1){
+            location.reload();
+        }else{
+            var contador = parseInt(document.getElementById('contador').getAttribute('value')) - 1;
+            document.getElementById('contador').setAttribute('value', contador);
+            document.getElementById('interest').textContent = document.getElementById('last_interest').textContent;
+            document.getElementById('disambiguation').textContent = document.getElementById('last_disambiguation').textContent;
+            document.getElementById('topic').textContent = document.getElementById('last_topic').textContent;
+            document.getElementById('id_interest_evaluated').value = document.getElementById('last_id_interest').textContent;
+        }
+    }
+    // Attach a submit handler to the form 
+    // Attach a submit handler to the form 
+    $("#rendered-form").submit(function(event) {
+    //if($('#gender').val() && $('#country').val() && $('#age').val()){
+        document.getElementById('start').style.display = 'none';
+        var vals = $(this).serialize();
+        var last_id_interest = document.getElementById("id_interest_evaluated").value;
+        var last_interest = document.getElementById("interest").textContent;
+        var last_disambiguation = document.getElementById("disambiguation").textContent;
+        var last_topic = document.getElementById("topic").textContent;
+        $.ajax({
+            url: "../show_line_db.php",  
+            method: "POST",
+            data: vals,
+            success: function(data) {
+                var bot_count = parseFloat(document.getElementById("bot_counter").textContent);
+                if(data.indexOf('{') != -1){
+                    if(bot_count<=0) document.getElementById("bot_counter").textContent = 0;
+                    else document.getElementById("bot_counter").textContent = bot_count -0.25;
+                    var line_evaluate = JSON.parse(data.substr(data.indexOf('{')));
+                    if(!line_evaluate['bot'] && !line_evaluate['finished']){
+                        document.getElementById('interest').textContent = line_evaluate['name'];
+                        if(line_evaluate['disambiguation'] != 'NULL')
+                            document.getElementById('disambiguation').textContent = line_evaluate['disambiguation'] || '-';
+                        else
+                        document.getElementById('disambiguation').textContent = '-';
+                        if(line_evaluate['topic'] != 'NULL')
+                            document.getElementById('topic').textContent = line_evaluate['topic'] || '-';
+                        else
+                        document.getElementById('topic').textContent = '-';
+                        document.getElementById('id_interest_evaluated').value = line_evaluate['interest_id'];
+                    }else if(line_evaluate['bot'] && !line_evaluate['finished']){
+                        window.location.replace('bot/');
+                    }else if(!line_evaluate['bot'] && line_evaluate['finished']){
+                        window.location.replace('finished.html');
+                    }
+                }else document.getElementById("bot_counter").textContent = bot_count +1;
+                if(bot_count>2.5) window.location.replace('bot/');
+            }
+        });
+        document.getElementById('complete_information_form').style.visibility = 'visible';
+        document.getElementById('table_down_info').style.visibility = 'visible';
+        if(document.getElementById('id_interest_evaluated').value.length > 1){
+            var contador = 1 + parseInt(document.getElementById('contador').getAttribute('value'));
+            document.getElementById('contador').setAttribute('value', contador);
+            document.getElementById("last_id_interest").textContent = last_id_interest;
+            document.getElementById("last_interest").textContent = last_interest;
+            document.getElementById("last_disambiguation").textContent = last_disambiguation;
+            document.getElementById("last_topic").textContent = last_topic;
+            document.getElementById('last_id').textContent = 'Go back: Correct the "' + document.getElementById('last_interest').textContent + '" interest';
+        }
+        document.getElementById('contador').innerHTML = "Finish questionnaire with <b>" + document.getElementById('contador').getAttribute('value') +"</b> responses registered";
+        reloadCaptcha();
+        return false; // prevent from submit
+    //}
+    });
+</script>
+</html>
